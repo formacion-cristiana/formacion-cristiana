@@ -10,6 +10,7 @@
     },
     {
       "type": "true-false",
+           "image": "/images/logo512.svg",
       "questionText": "Is 10 greater than 5?",
       "correctAnswer": true
     },
