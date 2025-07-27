@@ -2,22 +2,37 @@
   "id": "C02",
   "title": "Math Quiz",
   "questions": [
-    {
-      "type": "multiple-choice",
-      "questionText": "What is 2 + 2?",
-      "answerOptions": ["3", "4", "5"],
-      "correctAnswer": "4"
-    },
+          {
+        "type": "matching",
+        "questionText": "Match countries to their capitals and continents",
+          "columns": ["Animal", "Sound", "Habitat"],
+        "correctAnswer": [
+          ["France", "Paris", "Europe"],
+          ["Japan", "Tokyo", "Asia"],
+          ["Brazil", "Brasilia", "South America"]
+        ]
+      },
+  {
+    "type": "multiple-choice",
+    "questionText": "David fue ...",
+    "answerOptions": [
+      { "answerText": "Pastor", "isCorrect": true },
+      { "answerText": "Príncipe", "isCorrect": false },
+      { "answerText": "Rey", "isCorrect": true },
+      { "answerText": "Salmista", "isCorrect": true }
+    ],
+    "correctAnswer": "Pastor, Rey, Salmista"
+  },
     {
       "type": "true-false",
       "questionText": "Is 10 greater than 5?",
       "correctAnswer": true
     },
-    {
-      "type": "ordering",
-      "questionText": "Order the numbers from smallest to largest",
-      "items": ["3", "1", "2"],
-      "correctOrder": ["1", "2", "3"]
-    }
+  {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1 17):",
+    "items": ["Abraham", "David", "Destierro a Babilonia", "José"],
+    "correctOrder": ["Abraham", "David", "Destierro a Babilonia", "José"]
+  }
   ]
 }
