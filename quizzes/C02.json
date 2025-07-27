@@ -1,6 +1,7 @@
 {
   "id": "C02",
   "title": "Math",
+    "date":"27/07/2025",
   "questions": [
           {
         "type": "matching",
@@ -12,6 +13,22 @@
           ["Brazil", "Brasilia", "South America"]
         ]
       },
+        {
+    "type": "multiple-choice",
+    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
+    "answerOptions": [
+      { "answerText": "Reyes", "isCorrect": false },
+      { "answerText": "Profetas", "isCorrect": false },
+      { "answerText": "Sacerdotes", "isCorrect": true},
+      { "answerText": "Romanos", "isCorrect": false }
+    ],
+    "correctAnswer": "Sacerdotes"
+  },
+    {
+    "type": "true-false",
+    "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
+    "correctAnswer": false
+  },
   {
     "type": "multiple-choice",
     "questionText": "David fue ...",
@@ -33,6 +50,16 @@
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1 17):",
     "items": ["Abraham", "David", "Destierro a Babilonia", "José"],
     "correctOrder": ["Abraham", "David", "Destierro a Babilonia", "José"]
-  }
+  },
+              {
+        "type": "matching",
+        "questionText": "Match countries to their capitals and continents",
+          "columns": ["Animal", "Sound"],
+        "correctAnswer": [
+          ["La concepción virginal", "José, hijo de David, no temas recibir a María, tu esposa ..."],
+          ["Al partir los magos", "Levántate, toma al niño y a su madre, huye a Egipto..."],
+          ["Al morir el Rey Herodes", "Levántate, toma al niño y a su madre, y regresa a la tierra de Israel..."]
+        ]
+      }
   ]
 }
