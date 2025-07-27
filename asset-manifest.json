@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/formacion-cristiana/static/css/main.66c40822.css",
-    "main.js": "/formacion-cristiana/static/js/main.eee94d1c.js",
+    "main.css": "/formacion-cristiana/static/css/main.e6a0bbd7.css",
+    "main.js": "/formacion-cristiana/static/js/main.73d55cac.js",
     "static/js/453.ca599433.chunk.js": "/formacion-cristiana/static/js/453.ca599433.chunk.js",
     "index.html": "/formacion-cristiana/index.html",
-    "main.66c40822.css.map": "/formacion-cristiana/static/css/main.66c40822.css.map",
-    "main.eee94d1c.js.map": "/formacion-cristiana/static/js/main.eee94d1c.js.map",
+    "main.e6a0bbd7.css.map": "/formacion-cristiana/static/css/main.e6a0bbd7.css.map",
+    "main.73d55cac.js.map": "/formacion-cristiana/static/js/main.73d55cac.js.map",
     "453.ca599433.chunk.js.map": "/formacion-cristiana/static/js/453.ca599433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66c40822.css",
-    "static/js/main.eee94d1c.js"
+    "static/css/main.e6a0bbd7.css",
+    "static/js/main.73d55cac.js"
   ]
 }
