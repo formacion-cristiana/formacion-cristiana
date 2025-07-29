@@ -8,13 +8,11 @@
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1:2):",
-    "items": ["Abraham", "Isaac", "Jacob (Israel)"],
     "correctOrder": ["Abraham", "Isaac", "Jacob (Israel)"]
   },
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
-    "items": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"],
     "correctOrder": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"]
   },
   {
@@ -25,8 +23,7 @@
       { "answerText": "Fortaleza", "isCorrect": false },
       { "answerText": "Sabiduría", "isCorrect": false },
       { "answerText": "Piedad", "isCorrect": false }
-    ],
-    "correctAnswer": "Fe"
+    ]
   },
   {
     "type": "multiple-choice",
@@ -36,8 +33,7 @@
       { "answerText": "Príncipe", "isCorrect": false },
       { "answerText": "Rey", "isCorrect": true },
       { "answerText": "Salmista", "isCorrect": true }
-    ],
-    "correctAnswer": "Pastor, Rey, Salmista"
+    ]
   },
   {
     "type": "ordering",
