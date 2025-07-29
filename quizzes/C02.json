@@ -7,7 +7,7 @@
         {
     "type": "multiple-choice",
     "questionText": "Alrededor del año 1900 a.C., ¿a quién le prometió Dios que le daría a el y a sus descendientes la tierra de Canaán?  (tierra Santa/Prometida)",
-      "image": "/images/12tribus.png",
+      "image": "/images/palestina-arabia.png",
       "answerOptions": [
       { "answerText": "Abraham", "isCorrect": true },
       { "answerText": "Israel", "isCorrect": false },
@@ -72,12 +72,12 @@
             {
     "type": "multiple-choice",
     "questionText": "Completar el versículo: \"La reina de Sabá oyó hablar de la fama de _________, y fue a ponerlo a prueba, proponiéndole unos enigmas. Llegó a Jerusalén con un séquito imponente, con camellos cargados de perfumes, de gran cantidad de oro y de piedras preciosas.\" (2Cro 9:1) ",
-      "image": "/images/primeros-reinos.png",
+      "image": "/images/palestina-arabia.png",
       "answerOptions": [
       { "answerText": "Abraham", "isCorrect": false },
       { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": true },
       { "answerText": "Jesús", "isCorrect": false }
     ]
   },
