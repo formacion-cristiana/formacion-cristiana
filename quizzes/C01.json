@@ -8,12 +8,12 @@
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1:2):",
-    "correctOrder": ["Abraham", "Isaac", "Jacob (Israel)"]
+    "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"]
   },
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
-    "correctOrder": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"]
+    "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"]
   },
   {
     "type": "multiple-choice",
@@ -39,7 +39,7 @@
     "type": "ordering",
     "questionText": "Ordenar temporalmente los acontecimientos posteriores al nacimiento de Jesús (Mt 2):",
     "items": ["La visita de los magos", "La matanza de los inocentes", "El exilio a Egipto", "El regreso de Egipto"],
-    "correctOrder": ["La visita de los magos", "El exilio a Egipto", "La matanza de los inocentes", "El regreso de Egipto"]
+    "correctAnswer": ["La visita de los magos", "El exilio a Egipto", "La matanza de los inocentes", "El regreso de Egipto"]
   },
   {
     "type": "multiple-choice",

@@ -1,0 +1,174 @@
+{
+  "id": "C04",
+  "title": "Test",
+    "date":"27/07/2025",
+      "comment":"",
+  "questions": [      {
+    "type": "multiple-choice",
+    "questionText": "¿Con cual pecado capital podemos acusar al Rey de Babilonia a partir de las palabras de Isaías?\n\n`tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina. en los extremos del norte; escalaré las cimas de las nubes, seré semejante al Altísimo!».` (Is 14:13-14) ",
+    "answerOptions": [
+      { "answerText": "AVARICIA", "isCorrect": false },
+      { "answerText": "ENVIDIA", "isCorrect": false },
+      { "answerText": "GULA", "isCorrect": false },
+      { "answerText": "IRA", "isCorrect": false },
+      { "answerText": "LUJURIA", "isCorrect": false },
+      { "answerText": "PEREZA", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": true }
+      ]
+      },
+
+        {
+        "type": "matching",
+        "questionText": "Sacrificios de Abel, Caín, Melquisedec",
+            "columns": ["Profesional", "Ungido", "Signo","Función"],
+        "correctAnswer": [
+          ["Abel", "🐑","Animales puros","Pascua"],
+          ["Caín","🍎","Cosecha","Pentecostés"],
+          ["Melquisedec","🥖","Pan y Vino",""]
+        ]
+      },
+    {
+        "type": "matching",
+        "questionText": "Sacrificios de Abel, Caín, Melquisedec",
+            "columns": ["Profesional", "Ungido", "Signo","Función"],
+        "correctAnswer": [
+          ["Gobernante", "Rey","👑 𓋾 ꤪꤨꤪ","Conducir/Guiar"],
+          ["Maestro","Profeta","📚 🫵 🗣️","Enseñar/Señalar"],
+          ["Religioso","Sacerdote","🍎 🥖 🐑","Orar/Sacrficar"]
+        ]
+      },
+          {
+        "type": "matching",
+        "questionText": "En la misa hay tres momentos clave: la mesa de la palabra, la mesa de la eucaristía y el envío final a misionar",
+            "columns": ["Misa", "Ministerio","Función","Orden Sagrado"],
+        "correctAnswer": [
+          ["Palabra", "Profeta","Enseñar/Señalar", "Diacono 📚"],
+          ["Pan","Sacerdote","Orar/Sacrficar", "Presbítero 🥖 "],
+          ["Envío","Pastor","Conducir/Guiar","Obispo 𓋾"]
+        ]
+      },    {
+        "type": "matching",
+        "questionText": "Unir cada nombre con su raiz etimológica (hebrea) y significado:",
+            "columns": ["Funcionario", "Función", "Poder","Objetivo Evangélico"],
+        "correctAnswer": [
+          ["Gobernante", "Conducir","Ejecutivo","Progresar mediante la Paz"],
+          ["Legislador","Convertir/Rectificar","Legislativo", "Educar mediante la Palabra"],
+          ["Juez","Salvar/Condenar", "Judicial","Ajusticiar mediante la Misericordia"]
+        ]
+      },
+    {
+      "type": "true-false",
+           "image": "/images/logo512.svg",
+      "questionText": "Is 10 greater than 5?",
+      "correctAnswer": true
+    },
+        {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
+    "correctOrder": ["Genealogía", "Nacimiento", "Bautismo", "Tentaciones en el desierto","Promulgación del Reino"]
+    },
+    {
+    "type": "multiple-choice",
+    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
+    "answerOptions": [
+      { "answerText": "Reyes", "isCorrect": false },
+      { "answerText": "Profetas", "isCorrect": false },
+      { "answerText": "Sacerdotes", "isCorrect": true},
+      { "answerText": "Romanos", "isCorrect": false }
+    ],
+    "correctAnswer": "Sacerdotes"
+  },  {
+    "type": "multiple-choice",
+    "questionText": "Piedad significa:",
+    "answerOptions": [
+      { "answerText": "Misericordia", "isCorrect": true },
+      { "answerText": "Devoción", "isCorrect": true },
+      { "answerText": "Perdón", "isCorrect": true },
+      { "answerText": "Perseverancia", "isCorrect": false }
+    ]
+  },
+    {
+        "type": "matching",
+        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones y le dijo:",
+          "columns": ["Ocasión", "Palabras del Ángel"],
+        "correctAnswer": [
+          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
+          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
+          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
+        ]
+      },
+        {
+      "type": "true-false",
+      "questionText": "Después del Bautismo en el Jordán, el DIABLO llevó a Jesús al desierto para ponerlo a prueba. (Mt 4 1)",
+      "correctAnswer": false
+    }
+      {
+    "type": "true-false",
+    "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
+    "correctAnswer": false
+  },
+
+        {
+    "type": "multiple-choice",
+    "questionText": "Para los Cristianos, ¿Quién es nuestro padre en la Fé?",
+    "answerOptions": [
+      { "answerText": "Ábraham", "isCorrect": true },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ]
+  },
+            {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes nacieron en Belén?",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+    ]
+  },
+                    {
+        "type": "matching",
+        "questionText": "Unir a cada nombre con su significado:",
+          "columns": ["Nombre", "Significado"],
+        "correctAnswer": [
+          ["Belén", "casa/templo del pan"],
+          ["JeruSHALEM", "ciudad de la paz"],
+          ["Judea", "tiera de Judá"],
+          ["Jordan", "descender"],
+          ["EmanuEL", "Dios con nosotros"],
+          ["Cristo", "Úngido"]
+        ]
+      },
+        {
+      "type": "true-false",
+      "questionText": "Al Bautisarse Jesús en el Rio Jordán, es ungido por Dios con el Espíritu Santo. A partir de este momento se lo puede llamar JesuCristo. (Mt 3 17)",
+      "correctAnswer": true
+    },
+            {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes fueron ungidos sacramentalmente por Dios? (tuvieron un acto público donde Dios les encomienda una misión/ministerio)",
+    "answerOptions": [
+      { "answerText": "Ábraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+    ]
+  },            {
+    "type": "multiple-choice",
+    "questionText": "¿Quién estableció a Jerusalém (ciudad de la paz) como capital del Israel?",
+      "image": "/images/primeros-reinos.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ]
+  }
+  ]
+}

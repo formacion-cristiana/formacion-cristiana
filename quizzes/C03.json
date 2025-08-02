@@ -1,137 +1,104 @@
 {
   "id": "C03",
-  "title": "Test",
-    "date":"27/07/2025",
-      "comment":"",
+  "title": "Poder, Placer y Poseer",
+    "date":"02/08/2025",
+      "comment":"Tentaciones que nos alejan de la voluntad de Dios.",
   "questions": [
-    {
+              {
+        "type": "matching",
+                   "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4 5:6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`\n\n",
+          "columns": ["Tentación de Jesús", "Categoría de la tentación", "Pecado Capital"],
+        "correctAnswer": [
+          ["👑 mandar a los ángeles", "PODER ", "SOBERBIA"],
+          ["🥖 saciar el hambre", "PLACER","GULA"],
+          ["🌎 recibir tierras", "POSEER","AVARICIA"]
+        ]
+    },
+        {
       "type": "true-false",
-           "image": "/images/logo512.svg",
-      "questionText": "Is 10 greater than 5?",
+                   "image": "/images/tentaciones-de-jesus.jpg", 
+      "questionText": "El tentador no puede citar la palabra de Dios para engañarnos/tentarnos",
+      "correctAnswer": false
+    },
+            {
+      "type": "true-false",
+                   "image": "/images/tentaciones-de-jesus.jpg", 
+      "questionText": "Jesús resiste a las tentaciones rezando la palabra de Dios.",
       "correctAnswer": true
     },
-        {
-    "type": "ordering",
-    "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
-    "correctOrder": ["Genealogía", "Nacimiento", "Bautismo", "Tentaciones en el desierto","Promulgación del Reino"]
-    },
-    {
-      "type": "ordering",
-      "questionText": "Order the numbers from smallest to largest",
-      "items": ["3", "1", "2"],
-      "correctOrder": ["1", "2", "3"]
-    },         {
-        "type": "matching",
-        "questionText": "Match countries to their capitals and continents",
-          "columns": ["Animal", "Sound", "Habitat"],
-        "correctAnswer": [
-          ["France", "Paris", "Europe"],
-          ["Japan", "Tokyo", "Asia"],
-          ["Brazil", "Brasilia", "South America"]
-        ]
-      },
-        {
-    "type": "multiple-choice",
-    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
-    "answerOptions": [
-      { "answerText": "Reyes", "isCorrect": false },
-      { "answerText": "Profetas", "isCorrect": false },
-      { "answerText": "Sacerdotes", "isCorrect": true},
-      { "answerText": "Romanos", "isCorrect": false }
-    ],
-    "correctAnswer": "Sacerdotes"
-  },  {
-    "type": "multiple-choice",
-    "questionText": "Piedad significa:",
-    "answerOptions": [
-      { "answerText": "Misericordia", "isCorrect": true },
-      { "answerText": "Devoción", "isCorrect": true },
-      { "answerText": "Perdón", "isCorrect": true },
-      { "answerText": "Perseverancia", "isCorrect": false }
-    ]
-  },
-    {
-        "type": "matching",
-        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones y le dijo:",
-          "columns": ["Ocasión", "Palabras del Ángel"],
-        "correctAnswer": [
-          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
-          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
-          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
-        ]
-      },
-        {
-      "type": "true-false",
-      "questionText": "Después del Bautismo en el Jordán, el DIABLO llevó a Jesús al desierto para ponerlo a prueba. (Mt 4 1)",
-      "correctAnswer": false
-    }
       {
-    "type": "true-false",
-    "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
-    "correctAnswer": false
-  },
+    "type": "multiple-choice",
+    "questionText": "¿En cuál(es) tentación(es) cae el hombre de la siguiente parabola?\n\nLc 12:16-19 `Había un hombre rico, cuyas tierras habían producido mucho,y se preguntaba a sí mismo \"¿Qué voy a hacer? No tengo dónde guardar mi cosecha\". Después pensó: \"Voy a hacer esto: demoleré mis graneros, construiré otros más grandes y amontonaré allí todo mi trigo y mis bienes,y diré a mi alma: Alma mía, tienes bienes almacenados para muchos años; descansa, come, bebe y date buena vida\".`",
+    "answerOptions": [
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "POSEER", "isCorrect": true }
+      ]
+      },
+      {
+    "type": "multiple-choice",
+        "image": "/images/palestina-arabia-israel.png", 
+    "questionText": "¿En cuál tentación cae el Rey de Israel?\n\n2Sm 11:2-4 `Vio a una mujer que se estaba bañando. La mujer era muy hermosa... Le dijeron: «¡(Es) la mujer de Urías!». Entonces David mandó unos mensajeros para que se la trajeran. La mujer vino, y David se acostó con ella.`",
+    "answerOptions": [
+      { "answerText": "PLACER", "isCorrect": true },
+      { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "POSEER", "isCorrect": false }
+      ]
+      },
+      {
+    "type": "multiple-choice",
+    "image": "/images/palestina-arabia-babilonia.png", 
+    "questionText": "¿En cuál tentación cae el Rey de Babilonia acusado por el profeta Isaías?\n\nIs 14:13-14 `tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina, ... seré semejante al Altísimo!».`",
+    "answerOptions": [
+      { "answerText": "PLACER", "isCorrect": false },
+      { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": false }
+      ]
+      },    
 
         {
     "type": "multiple-choice",
-    "questionText": "Para los Cristianos, ¿Quién es nuestro padre en la Fé?",
+    "image": "/images/palestina-arabia-tiro.png", 
+    "questionText": "¿En cuál tentación cae el Príncipe de Tiro acusado por Ezequiel?\n\nEz 28:2 `Tu corazón se llenó de arrogancia y dijiste: «Yo soy un dios; estoy sentado en un trono divino, en el corazón de los mares». ¡Tú, que eres un hombre y no un dios, te has considerado igual a un dios! `",
     "answerOptions": [
-      { "answerText": "Ábraham", "isCorrect": true },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": false },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": false }
-    ]
-  },
-            {
+      { "answerText": "PLACER", "isCorrect": false },
+      { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "POSEER", "isCorrect": false }
+      ]},
+              {
     "type": "multiple-choice",
-    "questionText": "¿Quienes nacieron en Belén?",
+    "image": "/images/palestina-arabia-tiro.png", 
+    "questionText": "¿Con cuál pecado capital se puede asociar la acusación que el profeta Ezequiel le hace a el Rey de Tiro?\n\nEz 28:12-18 : `Estabas en Edén, el Jardín de Dios, recubierto de piedras preciosas ... a fuerza de tanto traficar, tu interior se llenó de violencia y caíste en el pecado. Por eso yo te expulso como algo profanado lejos de la montaña de Dios; te hago desaparecer, querubín protector, de entre las piedras de fuego. Tu corazón se llenó de arrogancia a causa de tu hermosura; corrompiste tu sabiduría a causa de tu esplendor. Pero yo te arrojé por tierra... Te reduciré a ceniza.`",
     "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": true }
-    ]
-  },
-                    {
-        "type": "matching",
-        "questionText": "Unir a cada nombre con su significado:",
-          "columns": ["Nombre", "Significado"],
-        "correctAnswer": [
-          ["Belén", "casa/templo del pan"],
-          ["JeruSHALEM", "ciudad de la paz"],
-          ["Judea", "tiera de Judá"],
-          ["Jordan", "descender"],
-          ["EmanuEL", "Dios con nosotros"],
-          ["Cristo", "Úngido"]
-        ]
+      { "answerText": "LUJURIA", "isCorrect": false },
+      { "answerText": "SOBERBIA", "isCorrect": true },
+      { "answerText": "AVARICIA", "isCorrect": false }
+      ]
       },
-        {
-      "type": "true-false",
-      "questionText": "Al Bautisarse Jesús en el Rio Jordán, es ungido por Dios con el Espíritu Santo. A partir de este momento se lo puede llamar JesuCristo. (Mt 3 17)",
-      "correctAnswer": true
-    },
+           {
+    "type": "multiple-choice",
+    "questionText": "¿Quién fue la primer creatura que pecó? (pecar: alejarse de Dios)",
+    "answerOptions": [
+      { "answerText": "Un animal", "isCorrect": false },
+      { "answerText": "Un ángel", "isCorrect": true },
+      { "answerText": "Una mujer", "isCorrect": false },
+      { "answerText": "Un varón", "isCorrect": false }
+      ]
+      },
             {
     "type": "multiple-choice",
-    "questionText": "¿Quienes fueron ungidos sacramentalmente por Dios? (tuvieron un acto público donde Dios les encomienda una misión/ministerio)",
+    "image": "/images/leviatan.jpeg", 
+    "questionText": "Los ángeles que pecaron contra Dios (el maligno y sus demonios) se los identifica con:",
     "answerOptions": [
-      { "answerText": "Ábraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": true }
+      { "answerText": "El dragón del mar -Leviatán-  (Is 27:1)", "isCorrect": true },
+      { "answerText": "El león de Judá (Ap 5:5)", "isCorrect": false },
+      { "answerText": "El lobo con piel de oveja (Mt 7:15)", "isCorrect": true },
+      { "answerText": "El rey de Babilonia (Is 14:12)", "isCorrect": true },
+      { "answerText": "El rey de Israel (2Sm 11:2)", "isCorrect": false },
+      { "answerText": "El rey de Tiro (Ez 28:12)", "isCorrect": true },
+      { "answerText": "La serpiente del Edén (Gn 3:1)", "isCorrect": true }
     ]
-  },            {
-    "type": "multiple-choice",
-    "questionText": "¿Quién estableció a Jerusalém (ciudad de la paz) como capital del Israel?",
-      "image": "/images/primeros-reinos.png",
-      "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": false }
-    ]
-  }
+      }
   ]
 }
