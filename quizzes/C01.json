@@ -59,9 +59,9 @@
   },
   {
     "type": "multiple-choice",
-    "questionText": "Juan Bautista plocamaba: \"_________ porque el Reino de los Cielos está cerca\" (Mt 3:2):",
+    "questionText": "Juan Bautista plocamaba:\n\n `\"_________ porque el Reino de los Cielos está cerca\"` (Mt 3:2):",
     "answerOptions": [
-      { "answerText": "Conviertanse", "isCorrect": true },
+      { "answerText": "Conviértanse", "isCorrect": true },
       { "answerText": "Límpiense", "isCorrect": false },
       { "answerText": "Purifíquense", "isCorrect": false },
       { "answerText": "Santifíquense", "isCorrect": false }

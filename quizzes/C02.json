@@ -36,7 +36,7 @@
     },
         {
     "type": "multiple-choice",
-    "questionText": "Completar el versículo: <code>'Dios puso a prueba a _________. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'</code> (Gn 22:1). Unos mil años más tarde, en el monte Moria se construirá el Templo de Israel.",
+    "questionText": "Completar el versículo\n\nGn 22:1 `Dios puso a prueba a _________. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'.`\n\n Unos mil años más tarde, en el monte Moria se construirá el Templo de Israel.",
     "image": "/images/jerusalem-moria.png",
     "answerOptions": [
       { "answerText": "Abraham", "isCorrect": true },
@@ -48,7 +48,7 @@
   },
           {
     "type": "multiple-choice",
-    "questionText": "Completar el versículo en donde justo antes del sacrificio el Ángel de Dios dice a Abraham: '<No le hagas nada que ahora sé que tienes _________ de Dios, ya que no me has negado tu único hijo.> (Gn 22 12)",
+    "questionText": "Completar el versículo en donde justo antes del sacrificio el Ángel de Dios dice a Abraham:\n\nGn 22:12 `'No le hagas nada que ahora sé que tienes _________ de Dios, ya que no me has negado tu único hijo.'`",
     "image": "/images/jerusalem-moria-abram.png",
         "answerOptions": [
       { "answerText": "Piedad", "isCorrect": false },

@@ -6,8 +6,8 @@
   "questions": [
               {
         "type": "matching",
-                   "image": "/images/tentaciones-de-jesus.jpg", 
-        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4 5:6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`\n\n",
+          "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4:5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`\n\n",
           "columns": ["Tentación de Jesús", "Categoría de la tentación", "Pecado Capital"],
         "correctAnswer": [
           ["👑 mandar a los ángeles", "PODER ", "SOBERBIA"],
