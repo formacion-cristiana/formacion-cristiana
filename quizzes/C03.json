@@ -7,7 +7,7 @@
               {
         "type": "matching",
           "image": "/images/tentaciones-de-jesus.jpg", 
-        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4:5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`\n\n",
+        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4:5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`",
           "columns": ["Tentación de Jesús", "Categoría de la tentación", "Pecado Capital"],
         "correctAnswer": [
           ["👑 mandar a los ángeles", "PODER ", "SOBERBIA"],
@@ -18,13 +18,13 @@
         {
       "type": "true-false",
                    "image": "/images/tentaciones-de-jesus.jpg", 
-      "questionText": "El tentador no puede citar la palabra de Dios para engañarnos/tentarnos",
+      "questionText": "El tentador NO puede citar La Palabra de Dios para engañarnos/tentarnos",
       "correctAnswer": false
     },
             {
       "type": "true-false",
                    "image": "/images/tentaciones-de-jesus.jpg", 
-      "questionText": "Jesús resiste a las tentaciones rezando la palabra de Dios.",
+      "questionText": "Jesús resiste a las tentaciones rezando La Palabra de Dios.",
       "correctAnswer": true
     },
       {
@@ -39,7 +39,7 @@
       {
     "type": "multiple-choice",
         "image": "/images/palestina-arabia-israel.png", 
-    "questionText": "¿En cuál tentación cae el Rey de Israel?\n\n2Sm 11:2-4 `Vio a una mujer que se estaba bañando. La mujer era muy hermosa... Le dijeron: «¡(Es) la mujer de Urías!». Entonces David mandó unos mensajeros para que se la trajeran. La mujer vino, y David se acostó con ella.`",
+    "questionText": "¿En cuál tentación cae el Rey de ISRAEL?\n\n2Sm 11:2-4 `Vio a una mujer que se estaba bañando. La mujer era muy hermosa... Le dijeron: «¡(Es) la mujer de Urías!». Entonces David mandó unos mensajeros para que se la trajeran. La mujer vino, y David se acostó con ella.`",
     "answerOptions": [
       { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "PODER", "isCorrect": false },
@@ -49,7 +49,7 @@
       {
     "type": "multiple-choice",
     "image": "/images/palestina-arabia-babilonia.png", 
-    "questionText": "¿En cuál tentación cae el Rey de Babilonia acusado por el profeta Isaías?\n\nIs 14:13-14 `tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina, ... seré semejante al Altísimo!».`",
+    "questionText": "¿En cuál tentación cae el Rey de BABILONIA acusado por el profeta Isaías?\n\nIs 14:13-14 `tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina, ... seré semejante al Altísimo!».`",
     "answerOptions": [
       { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "PODER", "isCorrect": true },
@@ -60,7 +60,7 @@
         {
     "type": "multiple-choice",
     "image": "/images/palestina-arabia-tiro.png", 
-    "questionText": "¿En cuál tentación cae el Príncipe de Tiro acusado por Ezequiel?\n\nEz 28:2 `Tu corazón se llenó de arrogancia y dijiste: «Yo soy un dios; estoy sentado en un trono divino, en el corazón de los mares». ¡Tú, que eres un hombre y no un dios, te has considerado igual a un dios! `",
+    "questionText": "¿En cuál tentación cae el Príncipe de TIRO acusado por Ezequiel?\n\nEz 28:2 `Tu corazón se llenó de arrogancia y dijiste: «Yo soy un dios; estoy sentado en un trono divino, en el corazón de los mares». ¡Tú, que eres un hombre y no un dios, te has considerado igual a un dios! `",
     "answerOptions": [
       { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "PODER", "isCorrect": true },
@@ -69,7 +69,7 @@
               {
     "type": "multiple-choice",
     "image": "/images/palestina-arabia-tiro.png", 
-    "questionText": "¿Con cuál pecado capital se puede asociar la acusación que el profeta Ezequiel le hace al Rey de Tiro?\n\nEz 28:12-18 : `Estabas en Edén, el Jardín de Dios, recubierto de piedras preciosas ... a fuerza de tanto traficar, tu interior se llenó de violencia y caíste en el pecado. Por eso yo te expulso como algo profanado lejos de la montaña de Dios; te hago desaparecer, querubín protector, de entre las piedras de fuego. Tu corazón se llenó de arrogancia a causa de tu hermosura; corrompiste tu sabiduría a causa de tu esplendor. Pero yo te arrojé por tierra... Te reduciré a ceniza.`",
+    "questionText": "¿Con cuál pecado capital se puede asociar la acusación que el profeta Ezequiel le hace al Rey de TIRO?\n\nEz 28:12-18 : `Estabas en Edén, el Jardín de Dios, recubierto de piedras preciosas ... a fuerza de tanto traficar, tu interior se llenó de violencia y caíste en el pecado. Por eso yo te expulso como algo profanado lejos de la montaña de Dios; te hago desaparecer, querubín protector, de entre las piedras de fuego. Tu corazón se llenó de arrogancia a causa de tu hermosura; corrompiste tu sabiduría a causa de tu esplendor. Pero yo te arrojé por tierra... Te reduciré a ceniza.`",
     "answerOptions": [
       { "answerText": "LUJURIA", "isCorrect": false },
       { "answerText": "SOBERBIA", "isCorrect": true },

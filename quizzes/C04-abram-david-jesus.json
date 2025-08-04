@@ -1,0 +1,86 @@
+{
+  "id": "C04",
+  "title": "Ministerios y Dones",
+    "date":"27/07/2025",
+      "comment":"",
+  "questions": [
+      {
+        "type": "matching",
+        "questionText": "Trabajo ofrendado a Dios (sacro-oficio) en el Génesis.",
+            "columns": ["Personaje", "Signo", "Ofrenda","Cita"],
+        "correctAnswer": [
+          ["Adán","🥖","Pan","Gn 3:19"],
+          ["Abel", "🐑","Animales","Gn 4:4"],
+          ["Caín","🍎","Cosecha","Gn 4:3"]
+        ]
+      },
+                  {
+        "type": "matching",
+        "questionText": "Prefiguras Cristianas en tiempos de Abraham (Gn 14:18; 18:12; 22:1)",
+            "columns": ["Personaje","Etimología", "Acto", "Prefigura"],
+        "correctAnswer": [
+          ["Melquisedec","Rey de justicia","Ofrenda de pan y vino 🥖🍷","Última cena de Jesús"],
+          ["Sarah","Princesa","Embarazo milagroso 🤰🕊️","Inmaculada Concepción"],
+          ["Abraham","Padre de multitudes","Inmolación de su hijo 🐑","Pascua de Jesús"]    
+        ]
+      },
+        {
+    "type": "multiple-choice",
+    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
+    "answerOptions": [
+      { "answerText": "Reyes", "isCorrect": false },
+      { "answerText": "Profetas", "isCorrect": false },
+      { "answerText": "Sacerdotes", "isCorrect": true},
+      { "answerText": "Romanos", "isCorrect": false }
+    ],
+    "correctAnswer": "Sacerdotes"
+  }, 
+            {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes nacieron en Belén?",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+    ]
+  },
+                    {
+        "type": "matching",
+        "questionText": "Unir a cada nombre con su significado:",
+          "columns": ["Nombre", "Significado"],
+        "correctAnswer": [
+          ["Belén", "casa/templo del pan"],
+          ["JeruSHALEM", "ciudad de la paz"],
+          ["Judea", "tiera de Judá"],
+          ["Jordan", "descender"],
+          ["EmanuEL", "Dios con nosotros"],
+          ["Cristo", "Úngido"]
+        ]
+      },
+            {
+    "type": "multiple-choice",
+    "questionText": "¿Quienes fueron ungidos sacramentalmente por Dios? (tuvieron un acto público donde Dios les encomienda una misión/ministerio)",
+    "answerOptions": [
+      { "answerText": "Ábraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+    ]
+  },             
+       {
+    "type": "multiple-choice",
+    "questionText": "¿Quién estableció a Jerusalém (ciudad de la paz) como capital del Israel?",
+      "image": "/images/primeros-reinos.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": false },
+      { "answerText": "David", "isCorrect": true },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ]
+  }
+  ]
+}
