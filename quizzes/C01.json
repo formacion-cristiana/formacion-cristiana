@@ -58,36 +58,33 @@
   },
   {
     "type": "multiple-choice",
-    "questionText": "Juan Bautista plocamaba:\n\n `\"_________ porque el Reino de los Cielos está cerca\"` (Mt 3:2):",
+    "questionText": "En Mateo 3:2 Juan Bautista plocama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
     "answerOptions": [
       { "answerText": "Conviértanse", "isCorrect": true },
       { "answerText": "Límpiense", "isCorrect": false },
       { "answerText": "Purifíquense", "isCorrect": false },
       { "answerText": "Santifíquense", "isCorrect": false }
-    ],
-    "correctAnswer": "6"
+    ]
   },
     {
     "type": "multiple-choice",
-    "questionText": "Juan Bautista le contaba a los fariseos y saduceos que el que venía detrás de el los bautizaría con: (Mt 3:11):",
+    "questionText": "En Mateo 3:11 Juan Bautista le cuenta a los fariseos y saduceos que el que viene detrás de el los bautizará con:",
     "answerOptions": [
       { "answerText": "el agua", "isCorrect": false },
       { "answerText": "el Espíritu Santo", "isCorrect": true },
       { "answerText": "el fuego", "isCorrect": true },
       { "answerText": "el soplo", "isCorrect": false }
-    ],
-    "correctAnswer": "6"
+    ]
   }, 
    {
     "type": "multiple-choice",
-    "questionText": "Apenas fue bautizado Jesús vio al Espíritu de Dios dirigirse hacia el, descendiendo como (Mt 3:16):",
+    "questionText": "Mateo 3:16 cuenta que apenas fue bautizado Jesús vio al Espíritu de Dios dirigirse hacia el, descendiendo como:",
     "answerOptions": [
       { "answerText": "una luz", "isCorrect": false },
       { "answerText": "una lengua de fuego", "isCorrect": false },
       { "answerText": "una paloma", "isCorrect": true },
       { "answerText": "un soplo", "isCorrect": false }
-    ],
-    "correctAnswer": "6"
+    ]
   }
   ]
 }
