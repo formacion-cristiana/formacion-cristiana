@@ -31,8 +31,8 @@
     "type": "multiple-choice",
     "questionText": "¿En cuál(es) tentación(es) cae el hombre de la siguiente parabola?\n\nLc 12:16-19 `Había un hombre rico, cuyas tierras habían producido mucho,y se preguntaba a sí mismo \"¿Qué voy a hacer? No tengo dónde guardar mi cosecha\". Después pensó: \"Voy a hacer esto: demoleré mis graneros, construiré otros más grandes y amontonaré allí todo mi trigo y mis bienes,y diré a mi alma: Alma mía, tienes bienes almacenados para muchos años; descansa, come, bebe y date buena vida\".`",
     "answerOptions": [
-      { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": true }
       ]
       },
@@ -41,8 +41,8 @@
         "image": "/images/palestina-arabia-israel.png", 
     "questionText": "¿En cuál tentación cae el Rey de ISRAEL?\n\n2Sm 11:2-4 `Vio a una mujer que se estaba bañando. La mujer era muy hermosa... Le dijeron: «¡(Es) la mujer de Urías!». Entonces David mandó unos mensajeros para que se la trajeran. La mujer vino, y David se acostó con ella.`",
     "answerOptions": [
-      { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "PODER", "isCorrect": false },
+      { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": false }
       ]
       },
@@ -51,8 +51,8 @@
     "image": "/images/palestina-arabia-babilonia.png", 
     "questionText": "¿En cuál tentación cae el Rey de BABILONIA acusado por el profeta Isaías?\n\nIs 14:13-14 `tú que decías en tu corazón: «Subiré a los cielos; por encima de las estrellas de Dios erigiré mi trono. Me sentaré en la montaña de la asamblea divina, ... seré semejante al Altísimo!».`",
     "answerOptions": [
-      { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "POSEER", "isCorrect": false }
       ]
       },    
@@ -62,8 +62,8 @@
     "image": "/images/palestina-arabia-tiro.png", 
     "questionText": "¿En cuál tentación cae el Príncipe de TIRO acusado por Ezequiel?\n\nEz 28:2 `Tu corazón se llenó de arrogancia y dijiste: «Yo soy un dios; estoy sentado en un trono divino, en el corazón de los mares». ¡Tú, que eres un hombre y no un dios, te has considerado igual a un dios! `",
     "answerOptions": [
-      { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "PODER", "isCorrect": true },
+      { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "POSEER", "isCorrect": false }
       ]},
               {
@@ -71,8 +71,8 @@
     "image": "/images/palestina-arabia-tiro.png", 
     "questionText": "¿Con cuál pecado capital se puede asociar la acusación que el profeta Ezequiel le hace al Rey de TIRO?\n\nEz 28:12-18 : `Estabas en Edén, el Jardín de Dios, recubierto de piedras preciosas ... a fuerza de tanto traficar, tu interior se llenó de violencia y caíste en el pecado. Por eso yo te expulso como algo profanado lejos de la montaña de Dios; te hago desaparecer, querubín protector, de entre las piedras de fuego. Tu corazón se llenó de arrogancia a causa de tu hermosura; corrompiste tu sabiduría a causa de tu esplendor. Pero yo te arrojé por tierra... Te reduciré a ceniza.`",
     "answerOptions": [
-      { "answerText": "LUJURIA", "isCorrect": false },
       { "answerText": "SOBERBIA", "isCorrect": true },
+      { "answerText": "LUJURIA", "isCorrect": false },
       { "answerText": "AVARICIA", "isCorrect": false }
       ]
       },

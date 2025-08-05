@@ -1,0 +1,62 @@
+{
+  "id": "C04",
+  "title": "Poder-Placer-Poseer",
+    "date":"05/08/2025",
+      "comment":"Necesidades del Hombre satisfechas por Dios o el dinero.",
+  "questions": [
+  {
+    "type": "true-false",
+    "questionText": "Tanto Dios como el dinero pueden satisfacer las necesidades que el Hombre tiene de `PODER`, `PLACER`, y `POSEER`.",
+    "correctAnswer": true
+  },
+            {
+        "type": "matching",
+          "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Vincular los deseos humanos con los mayores dones divinos en la tierra asociados a cada persona de la trinidad ⚜",
+          "columns": ["Deseo humano","Don divino", "Persona divina"],
+        "correctAnswer": [
+          ["La mayor poseción/bien que tenemos es", "El Pan"],
+          ["El mayor poder/fuerza que tenemos es","La Palabra"],
+          ["El mayor placer/gozo que tenemos es","La Paz 🕊"]
+        ]
+    },
+            {
+        "type": "matching",
+          "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Vincular los deseos humanos con los mayores dones divinos asociados a cada persona de la trinidad ⚜",
+          "columns": ["Deseo humano","Don divino", "Persona divina"],
+        "correctAnswer": [
+          ["La mayor poseción/bien que tenemos es", "La Herencia que nos da Dios","Padre"],
+          ["El mayor poder/fuerza que tenemos es","La Cruz ☦ que nos da Dios","Hijo"],
+          ["El mayor placer/gozo que tenemos es","L que nos da Dios","Espíritu"]
+        ]
+    }, {
+    "type": "ordering",
+    "image": "/images/señal-de-la-cruz.png", 
+    "questionText": "En los últimos versículos del evangelio de Mateo Jesús dice:\n\nMt 28:19 `Vayan y hagan que todos los pueblos sean mis discípulos, bautizándolos en el nombre del:` ",
+    "correctAnswer": ["Padre", "Hijo", "Espiritu Santo"]
+  },
+    {
+        "type": "matching",
+          "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada persona de la trinidad ⚜ una imagen (evangélica), acción (fundamental) y elemento (identificador)",
+          "columns": ["Persona de la trinidad","Imagen", "Acción", "Elemento"],
+        "correctAnswer": [
+          ["1era","Padre", "Creador ", "Casa 🏠🫂"],
+          ["2da","Hijo", "Salvador","Cruz ☦ 🐑"],
+          ["3era","Espíritu", "Santificador","Paloma 🕊"]
+        ]
+    },
+    {
+        "type": "matching",
+          "image": "/images/tentaciones-de-jesus.jpg", 
+        "questionText": "Asociar a cada persona de la trinidad ⚜ una imagen (evangélica), acción (fundamental) y elemento (identificador)",
+          "columns": ["Persona de la trinidad","Imagen", "Acción", "Elemento"],
+        "correctAnswer": [
+          ["Placer","Gozo", "asdf", "Casa 🏠🫂"],
+          ["Poder","Capacidad", "Autoridad","Cruz ☦ 🐑"],
+          ["Poseer","Tener", "Bienes","Paloma 🕊"]
+        ]
+    }
+  ]
+}
