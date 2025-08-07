@@ -4,11 +4,17 @@
     "date":"05/08/2025",
       "comment":"Necesidades del Hombre satisfechas por Dios o el dinero.",
   "questions": [
-  {
-    "type": "true-false",
-    "questionText": "Tanto Dios como el dinero pueden satisfacer las necesidades que el Hombre tiene de `PODER`, `PLACER`, y `POSEER`.",
-    "correctAnswer": true
-  },
+     {
+        "type": "matching",
+          "image": "/images/sacerdote-profeta-rey-logos.jpg", 
+        "questionText": "Rm 13:1 `Todos deben someterse a las autoridades constituidas, porque no hay autoridad que no provenga de Dios y las que existen han sido establecidas por él.`\n\nAsociar a cada autoridad una de las Bienaventuranza de Mateo 5:7-12. Considerar estas preguntas como guía:\n\nEn nombre de Dios,\n\n1) ¿quién tiene que trabajar por la paz?\n\n2) ¿quién tiene que enseñar la verdad?\n\n3) ¿quién tiene que perdonar (los pecados)?\n\n ",
+          "columns": ["Autoridad","Dichosos", "Dicha"],
+        "correctAnswer": [
+           ["Político / Gobernante","los trabajadores por la Paz", "ser llamados Hijos de Dios"],
+                    ["Educador / Profeta","los perseguidos y calumniados a causa de la Verdad", "tener una recompensa en el Cielo"],
+          ["Religioso / Sacerdote","los misericordiosos","obtener misericordia"]
+        ]
+    },
             {
         "type": "matching",
           "image": "/images/tentaciones-de-jesus.jpg", 

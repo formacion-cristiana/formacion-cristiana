@@ -1,0 +1,65 @@
+🕊❤️‍🔥📖
+
+🫂☀️🔥
+      rey agua limpio/bello imagen
+      profeta aire palabra
+      sacerdote fuego purifica corazón santidad
+
+      moises agua
+      elias fuego
+      jesus soplo
+
+juan: aire palabra 
+
+A él se refería el profeta Isaías cuando dijo: "Una voz grita en el desierto: Preparen el camino del Señor, allanen sus senderos"
+
+          {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
+    "correctAnswer": ["Abraham-Isaac-Jacob", "Saúl-David-Salomón", "Destierro a Babilonia", "José (padre de Jesús)"]
+    },
+          {
+        "type": "matching",
+        "image": "/images/dios-y-dinero.jpg", 
+        "questionText": "Mt 16:21 `Jesús comenzó a anunciar a sus discípulos que debía ir a Jerusalén, y sufrir mucho de parte de los ancianos, de los sumos sacerdotes y de los escribas; que debía ser condenado a muerte y resucitar al tercer día.`",
+            "columns": ["Ministerio","Funciones","","Judíos"],
+        "correctAnswer": [
+          ["Rey", "decidir el bien","Honores al entrar en Jerusalén", "Anciano"],
+          ["Sacerdote","recuperar el bien perdido","Recupera la Vida eterna al resucitar","Caifás"],
+          ["Profetas", "crear bienes con esfuerzo","Sufrimiento al ser condenado","Escriba"]
+        ]
+      },
+
+
+     {
+        "type": "matching",
+        "questionText": "Trabajo ofrendado a Dios (sacro-oficio) en el Génesis.",
+            "columns": ["Personaje", "Signo", "Ofrenda","Cita"],
+        "correctAnswer": [
+          ["Adán","🥖","Pan","Gn 3:19"],
+          ["Abel", "🐑","Animales","Gn 4:4"],
+          ["Caín","🍎","Cosecha","Gn 4:3"]
+        ]
+      },
+
+      
+    {
+        "type": "matching",
+        "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones y le dijo:",
+          "columns": ["Ocasión", "Palabras del Ángel"],
+        "correctAnswer": [
+          ["La concepción virginal", "'José, hijo de David, no temas recibir a María, tu esposa ...'"],
+          ["Al partir los magos", "'Levántate, toma al niño y a su madre, huye a Egipto...'"],
+          ["Al morir el Rey Herodes", "'Levántate, toma al niño y a su madre, y regresa a la tierra de Israel...'"]
+        ]
+      },
+      {
+    "type": "true-false",
+    "questionText": "El evangelio de Juan fue escrito por Juan Bautista",
+    "correctAnswer": false
+  },
+        {
+      "type": "true-false",
+      "questionText": "Al Bautisarse Jesús en el Rio Jordán, es ungido por Dios con el Espíritu Santo. A partir de este momento se lo puede llamar JesuCristo. (Mt 3 17)",
+      "correctAnswer": true
+    }

@@ -45,7 +45,7 @@
       },
         {
     "type": "multiple-choice",
-                  "image": "/images/cierva.webp", 
+    "image": "/images/cierva.webp", 
     "questionText": "Sal 42:2-3 `Como la cierva sedienta busca las corrientes de agua, así mi alma suspira por ti, mi Dios. Mi alma tiene sed de Dios, del Dios viviente: ¿Cuándo iré a contemplar el rostro de Dios?`\n\nA partir de las bienaventuranzas presentadas en la pregunta anterior, que se le puede responder al salmista:",
     "answerOptions": [
       { "answerText": "Cuando te aflijas.", "isCorrect": false },
@@ -56,11 +56,11 @@
          {
         "type": "matching",
           "image": "/images/cruz-paloma-vida.jpg", 
-        "questionText": "Asociar a cada necesidad del Hombre un gran regalo que Dios, como Santísima Trinidad, hace a la humanidad. Asociarlos también cada persona de la trinidad ⚜ y a su función característica.",
+        "questionText": "Asociar a cada necesidad del Hombre un gran regalo que Dios, como Santísima Trinidad, hace a la humanidad. Asociarlos también a cada persona de la trinidad ⚜ y a su función característica.",
           "columns": ["Necesidad humana","Don divino", "Persona divina","Función"],
         "correctAnswer": [
           ["Poder","La Cruz ☦ que nos da Dios","Hijo","para salvarnos de la muerte"],
-          ["Poseer", "La Vida que nos da Dios","Padre","para adoptarnos como hijos"],
+          ["Poseer", "La Vida 🎂 que nos da Dios","Padre","para adoptarnos como hijos"],
           ["Placer","La Paz 🕊 que nos da Dios","Espíritu","para esperar la parusía"]
         ]
     },
