@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/formacion-cristiana/static/css/main.92d071ae.css",
-    "main.js": "/formacion-cristiana/static/js/main.96801570.js",
+    "main.js": "/formacion-cristiana/static/js/main.63848784.js",
     "static/js/977.6e24cb4d.chunk.js": "/formacion-cristiana/static/js/977.6e24cb4d.chunk.js",
     "static/js/732.b30bc785.chunk.js": "/formacion-cristiana/static/js/732.b30bc785.chunk.js",
     "static/js/453.ca599433.chunk.js": "/formacion-cristiana/static/js/453.ca599433.chunk.js",
     "index.html": "/formacion-cristiana/index.html",
     "main.92d071ae.css.map": "/formacion-cristiana/static/css/main.92d071ae.css.map",
-    "main.96801570.js.map": "/formacion-cristiana/static/js/main.96801570.js.map",
+    "main.63848784.js.map": "/formacion-cristiana/static/js/main.63848784.js.map",
     "977.6e24cb4d.chunk.js.map": "/formacion-cristiana/static/js/977.6e24cb4d.chunk.js.map",
     "732.b30bc785.chunk.js.map": "/formacion-cristiana/static/js/732.b30bc785.chunk.js.map",
     "453.ca599433.chunk.js.map": "/formacion-cristiana/static/js/453.ca599433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92d071ae.css",
-    "static/js/main.96801570.js"
+    "static/js/main.63848784.js"
   ]
 }
