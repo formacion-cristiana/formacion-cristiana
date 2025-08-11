@@ -7,12 +7,16 @@
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1:2):",
-    "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"]
+    "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"],
+    "tip": "Mt 1:2 `Abraham fue padre de Isaac; Isaac, padre de Jacob; Jacob, padre de Judá y de sus hermanos.`",
+    "reflect": "* ¿Recordás los nombres de tus bisabuelos?\n* ¿Que sabés de ellos?\n* Hablá o preguntá sobre ellos."
   },
   {
     "type": "ordering",
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
-    "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"]
+    "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José (padre de Jesús)"],
+    "tip":"Mt 1:17 `El total de las generaciones es, por lo tanto: desde Abraham hasta David, catorce generaciones; desde David hasta el destierro en Babilonia, catorce generaciones; desde el destierro en Babilonia hasta Cristo, catorce generaciones.`",
+    "reflect": "* En tu familia, ¿Acerca de cuantas generaciones te han contado?\n* Hablá o preguntá sobre tus antepasados."
   },
   {
     "type": "multiple-choice",
@@ -22,7 +26,9 @@
       { "answerText": "Fortaleza", "isCorrect": false },
       { "answerText": "Sabiduría", "isCorrect": false },
       { "answerText": "Piedad", "isCorrect": false }
-    ]
+    ],
+    "tip":"Gn 22:1 `Dios puso a prueba a Abraham. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'.\n",
+    "reflect":"Como prueba de su fe, Dios le pide a Abraham lo más dificil que alguién puede pensar. Este hecho nos predispone a profundizar en el misterio pascual, donde Dios sacrifica a su único hijo en pos de la humanidad.\n* ¿Quién te transmitido tu fé?\n* ¿Has tenido que probar tu fe?"
   },
   {
     "type": "multiple-choice",

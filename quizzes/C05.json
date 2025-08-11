@@ -7,8 +7,10 @@
     {
     "type": "ordering",
     "image": "/images/timeline-historia-de-la-humanidad.png", 
-    "questionText": "Anuncio de la parusía y juicio final, primero por Juan Bautista y después por Jesús:\n\nMt 3:10-12 `el árbol que no produce buen fruto será cortado y arrojado al fuego. * El los bautizará en el Espíritu Santo y en el fuego. Tiene en su mano la horquilla y limpiará su era: recogerá su trigo en el granero y quemará la paja en un fuego inextinguible».`\n\nMt 16:27 `Porque el Hijo del hombre vendrá en la gloria de su Padre, rodeado de sus ángeles, y entonces pagará a cada uno de acuerdo con sus obras».`\n\nOrdenar temporalmente el camino de la Humanidad:",
-    "correctAnswer": ["Dios crea: Creación 🗣️🌎 (α)", "Dios salva: Salvación ☦ (τ)","Dios juzga: Parusía ⚖️ (ω)"]
+    "questionText": "En Col 1:16 Pablo dice que en Dios Hijo fueron creadas todas las cosas.\n\nEn Mt 1:21 el ángel le anuncia a José que su hijo será el Salvador.\n\n En Mt 3:10 Juan Bautista anuncia que el que viene detrás de el hará justicia.\n\nOrdenar temporalmente el camino cristiano de la Humanidad:",
+    "correctAnswer": ["Dios crea: Creación 🗣️🌎 (α)", "Dios salva: Salvación ☦ (τ)","Dios juzga: Parusía ⚖️ (ω)"],
+    "tip":"Gn 1:1 `En el principio Dios creó el cielo y la tierra`\n\nCol 1 16:18 `porque en él fueron creadas todas las cosas, tanto en el cielo como en la tierra * todo fue creado por medio de él y para él. El existe antes que todas las cosas y todo subsiste en él. *El es el Principio, `\n\n---\n\nEl ángel le dice a José: Mt 1:21 `Ella dará a luz un hijo, a quien pondrás el nombre de Jesús, porque él salvará a su Pueblo de todos sus pecados».`\n\nÉl nómbre Jesús viene de JeSHUA, 'SHUA' en hebreo significa 'salvación', Jesús significa 'Dios salva'\n\n---\n\nAnuncio de la parusía y juicio final, primero por Juan Bautista y después por Jesús\n\nMt 3:10-12 `el árbol que no produce buen fruto será cortado y arrojado al fuego. * El que viene detrás de mi * los bautizará en el Espíritu Santo y en el fuego. Tiene en su mano la horquilla y limpiará su era: recogerá su trigo en el granero y quemará la paja en un fuego inextinguible».`\n\nMt 16:27 `Porque el Hijo del hombre vendrá en la gloria de su Padre, rodeado de sus ángeles, y entonces pagará a cada uno de acuerdo con sus obras».`\n\n",
+      "reflect":""
     },
     {
     "type": "matching",
@@ -38,12 +40,55 @@
           ["Babel-Jesús", "Juan Bautista","Corregir a los religiosos","Dios Encarnado"]
         ]
       },
-        {
-    "type": "ordering",
-    "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
-    "correctAnswer": ["Genealogía 🇮🇱🫅🕍", "Nacimiento ✨🐫🫏", "Bautismo ↪️👑💦", "Tentaciones en el desierto 🥖🌍🐍","Promulgación del Reino ❤️‍🩹📖🕊"]
-    },
+            {
+    "type": "multiple-choice",
+              "image": "/images/una-voz-grita-en-el-desierto.jpeg", 
+    "questionText": "Sobre quién se refieren los siguientes versículos?`\n\nMt 3:`A él se refería el profeta Isaías cuando dijo: \"Una voz grita en el desierto: Preparen el camino del Señor, allanen sus senderos\"`\n\n Mt 11:10 `El es aquel de quien está escrito: \"Yo envío a mi mensajero delante de ti, para prepararte el camino\"`",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Moisés", "isCorrect": false },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Elías", "isCorrect": false },
+      { "answerText": "Juan Bautista", "isCorrect": true },
+      { "answerText": "Jesús", "isCorrect": false }
+      ]
+      },
+                  {
+    "type": "multiple-choice",
+              "image": "/images/una-voz-grita-en-el-desierto.jpeg", 
+    "questionText": "¿Qué profetas fueron salvados por sus padres de una matanza masiva a bebés por parte de los gobernántes de su época?\"`",
+    "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Moisés", "isCorrect": true },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Elías", "isCorrect": false },
+      { "answerText": "Juan Bautista", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": true }
+      ],
+    "tip":"Hch 7:17-21 `Al acercarse el tiempo en que debía cumplirse la promesa que Dios había hecho a Abraham, el pueblo creció y se multiplicó en Egipto, hasta que vino un nuevo rey que no sabía nada acerca de José. Este rey, empleando la astucia contra nuestro pueblo, maltrató a nuestros padres y los obligó a que abandonaran a sus hijos recién nacidos para que no sobrevivieran. En ese tiempo nació Moisés, que era muy hermoso delante de Dios. Durante tres meses fue criado en la casa de su padre, y al ser abandonado, la hija del Faraón lo recogió y lo crió como a su propio hijo.`"
+      },
+              {
+        "type": "matching",
+        "image": "/images/dios-y-dinero.jpg", 
+        "questionText": "Mt 16:21 `Jesús comenzó a anunciar a sus discípulos que debía ir a Jerusalén, y sufrir mucho de parte de los ancianos, de los sumos sacerdotes y de los escribas; que debía ser condenado a muerte y resucitar al tercer día.`",
+            "columns": ["Ministerio","Funciones","","Judíos"],
+        "correctAnswer": [
+          ["Rey", "administrar los bienes","Honores al entrar en Jerusalén", "Anciano"],
+          ["Sacerdote","recuperar el bien perdido","Recupera la Vida eterna al resucitar","Caifás"],
+          ["Profetas", "crear bienes con esfuerzo","Sufrimiento al ser condenado","Escriba"]
+        ]
+      },
     {
+        "type": "matching",
+        "questionText": "Mt 6:20-21 `No acumulen tesoros en la TIERRA. * Acumulen, en cambio, tesoros en el CIELO, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. Allí donde esté tu TESORO, estará también tu CORAZÓN.`\n\nMt 6:24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo. No se puede servir a DIOS y al DINERO.`\n\nMt 16:23 `«¡Retírate, ve detrás de mí, Satanás! Tú eres para mí un obstáculo, porque tus PENSAMIENTOS no son los de DIOS, sino los de los HOMBRES».`\n\n",
+            "columns": ["Ministerio","función","Críticas al mundo"],
+        "correctAnswer": [
+          ["Rey", "administrar/organizar","tesoros en la Tierra"],
+          ["Sacerdote","sentir/desear","servicio al Dinero"],
+          ["Profeta","señalar/enseñar","pensamiento de los Hombres"]
+        ]
+      },
+          {
         "type": "matching",
         "questionText": "Mt 6:20-21 `No acumulen tesoros en la TIERRA. * Acumulen, en cambio, tesoros en el CIELO, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. Allí donde esté tu TESORO, estará también tu CORAZÓN.`\n\nMt 6:24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo. No se puede servir a DIOS y al DINERO.`\n\nMt 16:23 `«¡Retírate, ve detrás de mí, Satanás! Tú eres para mí un obstáculo, porque tus PENSAMIENTOS no son los de DIOS, sino los de los HOMBRES».`\n\n",
             "columns": ["Ministerio","función","Críticas al mundo"],
