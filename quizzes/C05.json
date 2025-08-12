@@ -1,102 +1,103 @@
 {
   "id": "C05",
-  "title": "Ministerio Profético",
+  "title": "Ministerios Bautismales",
     "date":"09/08/2025",
-      "comment":"Señalar, proclamar y padecer la voluntad de Dios",
+      "comment":"La únción que nos encomienda a servir a Dios como lo hizo Cristo: Rey, Sacerdote y Profeta.",
   "questions": [          
     {
     "type": "ordering",
     "image": "/images/timeline-historia-de-la-humanidad.png", 
-    "questionText": "En Col 1:16 Pablo dice que en Dios Hijo fueron creadas todas las cosas.\n\nEn Mt 1:21 el ángel le anuncia a José que su hijo será el Salvador.\n\n En Mt 3:10 Juan Bautista anuncia que el que viene detrás de el hará justicia.\n\nOrdenar temporalmente el camino cristiano de la Humanidad:",
+    "questionText": "En Mateo 1:21 el ángel le anuncia a José que su hijo será el Salvador.\n\nEn Mateo 3:10 Juan Bautista anuncia que el que viene detrás de el hará justicia.\n\nEn la carta a los Colosenses 1:16 Pablo dice que en Dios Hijo fueron creadas todas las cosas.\n\nOrdenar temporalmente el camino cristiano de la Humanidad:",
     "correctAnswer": ["Dios crea: Creación 🗣️🌎 (α)", "Dios salva: Salvación ☦ (τ)","Dios juzga: Parusía ⚖️ (ω)"],
-    "tip":"Gn 1:1 `En el principio Dios creó el cielo y la tierra`\n\nCol 1 16:18 `porque en él fueron creadas todas las cosas, tanto en el cielo como en la tierra * todo fue creado por medio de él y para él. El existe antes que todas las cosas y todo subsiste en él. *El es el Principio, `\n\n---\n\nEl ángel le dice a José: Mt 1:21 `Ella dará a luz un hijo, a quien pondrás el nombre de Jesús, porque él salvará a su Pueblo de todos sus pecados».`\n\nÉl nómbre Jesús viene de JeSHUA, 'SHUA' en hebreo significa 'salvación', Jesús significa 'Dios salva'\n\n---\n\nAnuncio de la parusía y juicio final, primero por Juan Bautista y después por Jesús\n\nMt 3:10-12 `el árbol que no produce buen fruto será cortado y arrojado al fuego. * El que viene detrás de mi * los bautizará en el Espíritu Santo y en el fuego. Tiene en su mano la horquilla y limpiará su era: recogerá su trigo en el granero y quemará la paja en un fuego inextinguible».`\n\nMt 16:27 `Porque el Hijo del hombre vendrá en la gloria de su Padre, rodeado de sus ángeles, y entonces pagará a cada uno de acuerdo con sus obras».`\n\n",
+    "tip":"Gn 1:1 `En el principio Dios creó el cielo y la tierra`\n\nCol 1 16:18 `porque en él fueron creadas todas las cosas, tanto en el cielo como en la tierra * todo fue creado por medio de él y para él. El existe antes que todas las cosas y todo subsiste en él. *El es el Principio, `\n\n---\n\nEl ángel le dice a José: Mt 1:21 `Ella dará a luz un hijo, a quien pondrás el nombre de Jesús, porque él salvará a su Pueblo de todos sus pecados».`\n\nÉl nómbre Jesús viene de JeSHUA, 'SHUA' en hebreo significa 'salvación', Jesús significa 'Dios salva'\n\n---\n\nJuan Bautista anuncia la parusía y juicio final en Mt 3:10-12 `el árbol que no produce buen fruto será cortado y arrojado al fuego. * El que viene detrás de mi * los bautizará en el Espíritu Santo y en el fuego. Tiene en su mano la horquilla y limpiará su era: recogerá su trigo en el granero y quemará la paja en un fuego inextinguible».`\n\n",
       "reflect":""
     },
     {
     "type": "matching",
     "image": "/images/timeline-historia-de-la-humanidad.png", 
-    "questionText": "Mt 16:24-27 `Entonces Jesús dijo a sus discípulos: «El que quiera venir detrás de mí, que renuncie a sí mismo, que cargue con su cruz y me siga. Porque él que quiera salvar su vida, la perderá; y el que pierda su vida a causa de mí, la encontrará. ¿De qué le servirá al hombre ganar el mundo entero si pierde su vida? ¿Y qué podrá dar el hombre a cambio de su vida? Porque el Hijo del hombre vendrá en la gloria de su Padre, rodeado de sus ángeles, y entonces pagará a cada uno de acuerdo con sus obras».`\n\nAsociar a la Creación, Salvación y Juicio de Dios, eventos que le siguen temporalmente:",
-    "columns": ["Evento 1", "Eventos 2","Evento 3"],
+    "questionText": "Asociar a la Creación, Salvación y Juicio de Dios, un ministerio que lo caracterice, basándose en su función (en nombre de Dios) y objeto de acción",
+    "tip":"",
+    "reflect":"",
+    "columns": ["Hito Cristiano","Ministerio Bautismal","Función Ministerial","Objeto de cuidado"],
     "correctAnswer": [
-          ["Creación 🗣️🌎 (α)","Tentación del maligno 🐍", "Pecado del Hombre 🍎"],
-          ["Salvación ☦ (τ)","Conversión de pecador a justo ⛓️‍💥","Santificación del justo 👼"],
-          ["Juicio Final ⚖️ (ω)", "Arrepentimiento del hijo pecador 🙏","Abrazo del padre 🫂"]
+          ["Creación 🌎 (α)","Rey","Administrar", "las riquezas (de la creación)"],
+          ["Salvación ☦ (τ)","Sacerdote","Salvar","las almas (de los hombres)"],
+          ["Juicio Final ⚖️ (ω)","Profeta","Señalar","la ley (de Dios)"]
         ]
     },
-    {
-    "type": "ordering",
-    "image": "/images/timeline-historia-de-la-salvacion.jpeg", 
-    "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
-    "correctAnswer": ["Abraham-Padre", "David-Rey","Destierro a Babilonia-Babel", "Jesús-Cristo"]
-    },
-          {
+      {
         "type": "matching",
-        "image": "/images/timeline-historia-de-la-salvacion.jpeg", 
-        "questionText": "Ex 4:10-14 `Moisés dijo al Señor: «Perdóname, Señor, pero yo nunca he sido una persona elocuente.* Yo soy torpe para hablar y me expreso con dificultad». El Señor le respondió: «¿Quién dio al hombre una boca? ¿Y quién hace al hombre mudo o sordo, capaz de ver o ciego? ¿No soy yo, el Señor? Ahora ve: yo te asistiré siempre que hables y te indicaré lo que debes decir». Pero Moisés insistió: «Perdóname, Señor, encomienda a otro esta misión». El Señor se enojó con Moisés...`\n\n1Re 18:21-24 `Elías se acercó a todo el pueblo y dijo: «¿Hasta cuándo van a andar rengueando de las dos piernas? Si el Señor es Dios, síganlo; si es Baal, síganlo a él. Pero el pueblo no le respondió ni una palabra. Luego Elías dijo al pueblo: «Como profeta del Señor, he quedado yo solo, mientras que los profetas de Baal son cuatrocientos cincuenta. Traigamos dos novillos. *Ustedes invocarán el nombre de su dios y yo invocaré el nombre del Señor: el dios que responda enviándome fuego, ese es Dios». Todo el pueblo respondió diciendo: «¡Está bien!»`\n\nMt 3:7-10 `Al ver que muchos fariseos y saduceos se acercaban a recibir su bautismo, Juan les dijo: «Raza de víboras, ¿quién les enseñó a escapar de la ira de Dios que se acerca? Produzcan el fruto de una sincera conversión, y no se contenten con decir: «Tenemos por padre a Abraham». Porque yo les digo que de estas piedras Dios puede hacer surgir hijos de Abraham. El hacha ya está puesta a la raíz de los árboles: el árbol que no produce buen fruto será cortado y arrojado al fuego.`\n\nCaracterizar a los profetas de Israel:",
-            "columns": ["Época", "Profeta","Función","Señalaban"],
+        "questionText": "Unir distintas terminologías referidas a los ministerios bautismales (vagamente asociadas a distintas épocas) y a su función ministerial:",
+            "columns": ["Época Judía", "Edad Media","Actualidad","Función"],
         "correctAnswer": [
-          ["Abraham-David","Moisés", "liberar a Israel","La Ley"],
-          ["David-Babel","Elías","corregir a los Reyes","Dios Verdadero"],
-          ["Babel-Jesús", "Juan Bautista","Corregir a los religiosos","Dios Encarnado"]
-        ]
-      },
-            {
-    "type": "multiple-choice",
-              "image": "/images/una-voz-grita-en-el-desierto.jpeg", 
-    "questionText": "Sobre quién se refieren los siguientes versículos?`\n\nMt 3:`A él se refería el profeta Isaías cuando dijo: \"Una voz grita en el desierto: Preparen el camino del Señor, allanen sus senderos\"`\n\n Mt 11:10 `El es aquel de quien está escrito: \"Yo envío a mi mensajero delante de ti, para prepararte el camino\"`",
-    "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Moisés", "isCorrect": false },
-      { "answerText": "David", "isCorrect": false },
-      { "answerText": "Elías", "isCorrect": false },
-      { "answerText": "Juan Bautista", "isCorrect": true },
-      { "answerText": "Jesús", "isCorrect": false }
-      ]
-      },
-                  {
-    "type": "multiple-choice",
-              "image": "/images/una-voz-grita-en-el-desierto.jpeg", 
-    "questionText": "¿Qué profetas fueron salvados por sus padres de una matanza masiva a bebés por parte de los gobernántes de su época?\"`",
-    "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Moisés", "isCorrect": true },
-      { "answerText": "David", "isCorrect": false },
-      { "answerText": "Elías", "isCorrect": false },
-      { "answerText": "Juan Bautista", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": true }
-      ],
-    "tip":"Hch 7:17-21 `Al acercarse el tiempo en que debía cumplirse la promesa que Dios había hecho a Abraham, el pueblo creció y se multiplicó en Egipto, hasta que vino un nuevo rey que no sabía nada acerca de José. Este rey, empleando la astucia contra nuestro pueblo, maltrató a nuestros padres y los obligó a que abandonaran a sus hijos recién nacidos para que no sobrevivieran. En ese tiempo nació Moisés, que era muy hermoso delante de Dios. Durante tres meses fue criado en la casa de su padre, y al ser abandonado, la hija del Faraón lo recogió y lo crió como a su propio hijo.`"
-      },
-              {
-        "type": "matching",
-        "image": "/images/dios-y-dinero.jpg", 
-        "questionText": "Mt 16:21 `Jesús comenzó a anunciar a sus discípulos que debía ir a Jerusalén, y sufrir mucho de parte de los ancianos, de los sumos sacerdotes y de los escribas; que debía ser condenado a muerte y resucitar al tercer día.`",
-            "columns": ["Ministerio","Funciones","","Judíos"],
-        "correctAnswer": [
-          ["Rey", "administrar los bienes","Honores al entrar en Jerusalén", "Anciano"],
-          ["Sacerdote","recuperar el bien perdido","Recupera la Vida eterna al resucitar","Caifás"],
-          ["Profetas", "crear bienes con esfuerzo","Sufrimiento al ser condenado","Escriba"]
-        ]
-      },
-    {
-        "type": "matching",
-        "questionText": "Mt 6:20-21 `No acumulen tesoros en la TIERRA. * Acumulen, en cambio, tesoros en el CIELO, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. Allí donde esté tu TESORO, estará también tu CORAZÓN.`\n\nMt 6:24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo. No se puede servir a DIOS y al DINERO.`\n\nMt 16:23 `«¡Retírate, ve detrás de mí, Satanás! Tú eres para mí un obstáculo, porque tus PENSAMIENTOS no son los de DIOS, sino los de los HOMBRES».`\n\n",
-            "columns": ["Ministerio","función","Críticas al mundo"],
-        "correctAnswer": [
-          ["Rey", "administrar/organizar","tesoros en la Tierra"],
-          ["Sacerdote","sentir/desear","servicio al Dinero"],
-          ["Profeta","señalar/enseñar","pensamiento de los Hombres"]
-        ]
+          ["Profeta","Profesor", "Profesional","(Pro)fesar sobre un tema con autoridad"],
+          ["Sacerdote","Presbítero","Religioso","(Re)ligar el vínculo entre el Hombre y Dios"],
+          ["Rey", "Príncipe","Ministro","(Ad)ministrar los recursos de un pueblo"]
+        ],
+                "tip":"",
+         "reflect":""
       },
           {
         "type": "matching",
-        "questionText": "Mt 6:20-21 `No acumulen tesoros en la TIERRA. * Acumulen, en cambio, tesoros en el CIELO, donde no hay polilla ni herrumbre que los consuma, ni ladrones que perforen y roben. Allí donde esté tu TESORO, estará también tu CORAZÓN.`\n\nMt 6:24 `Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien, se interesará por el primero y menospreciará al segundo. No se puede servir a DIOS y al DINERO.`\n\nMt 16:23 `«¡Retírate, ve detrás de mí, Satanás! Tú eres para mí un obstáculo, porque tus PENSAMIENTOS no son los de DIOS, sino los de los HOMBRES».`\n\n",
-            "columns": ["Ministerio","función","Críticas al mundo"],
+        "questionText": "Unir a cada ministerio con su relación y función divina:",
+            "columns": [ "Ministerio", "Relación con Dios","Función divina","Emoji"],
         "correctAnswer": [
-          ["Rey", "administrar","tesoros en la Tierra"],
-          ["Sacerdote","sentir/desear","servicio al Dinero"],
-          ["Profeta","señalar/enseñar","pensamiento de los Hombres"]
-        ]
+          ["Profeta","Mensajero de ...","expresar la voluntad de ...","📖"],
+          ["Religioso","Enamorado de ...","transmitir el amor de ...","💗"],
+          ["Príncipe", "Hijo de ...","construir el Reino de ...","👷‍♂️"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"",
+         "reflect":""
+      },
+                {
+        "type": "matching",
+        "questionText": "Unir a cada ministerio con su rol en un pueblo, su función defensiva contra el mal y (pro)activa a favor del bien:",
+            "columns": [ "Ministerio","Ciudadano del pueblo", "Función defensiva", "Función activa"],
+        "correctAnswer": [
+          ["Profeta","Profesor","acusar el mal","predicar el bien"],
+          ["Presbítero","Juez","condenar el mal","perdonar el mal"],
+          ["Príncipe", "Jefe","combatir el mal", "obrar el bien"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"Acusación del mal:\n\nMt 3:7-10 `Al ver que muchos fariseos y saduceos se acercaban a recibir su bautismo, Juan les dijo: «Raza de víboras, ¿quién les enseñó a escapar de la ira de Dios que se acerca? Produzcan el fruto de una sincera conversión, y no se contenten con decir: «Tenemos por padre a Abraham». Porque yo les digo que de estas piedras Dios puede hacer surgir hijos de Abraham. El hacha ya está puesta a la raíz de los árboles: el árbol que no produce buen fruto será cortado y arrojado al fuego.`\n\n---\n\nEn Mateo 16:19 Jesús le da a Pedro el poder de condenar y perdonar, el rol de Juez en la tierra hasta que llegue el juicio final:\n\n`Yo te daré las llaves del Reino de los Cielos. Todo lo que ates en la tierra, quedará atado en el cielo, y todo lo que desates en la tierra, quedará desatado en el cielo».`",
+         "reflect":""
+      },
+          {
+        "type": "matching",
+        "questionText": "Unir a cada poder del sistema democrático argentino con un funcionario, el objeto de su administración y el edificio principal",
+            "columns": [ "Poder","Funcionario", "administración de","Edificio"],
+        "correctAnswer": [
+          ["Legislativo","Legislador","leyes", "Congreso"],
+          ["Judicial","Juez","justicia", "Tribunales"],
+          ["Ejecutivo","Presidente", "recursos","Casa Rosada"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"[Los tres poderes](https://www.casarosada.gob.ar/nuestro-pais/organizacion/los-tres-poderes)\n\n* Poder Ejecutivo: éste poder es desempeñado por un ciudadano con el título de “Presidente de la Nación”. Es el jefe supremo de la Nación, jefe de gobierno y responsable político de la administración general del país.\n\n* Poder Legislativo: A cargo del Congreso de la Nación compuesto por dos cámaras, una de Diputados de la Nación y otra de Senadores. Este poder crea y aprueba las leyes\n\n* Poder Judicial: Corresponde a la Suprema Corte de Justicia de la Nación Argentina y los tribunales inferiores, se encargan de administrar justicia, i.e. interpretar las leyes y asegurar su cumplimiento.",
+         "reflect":"* ¿Te imaginás un país donde no sean necesarias las leyes pués cada ciudadano obra según el bien común?\n\n* ¿Te imaginás un país donde la justicia perdone a todo aquel que se arrepienta?\n\n* ¿Te imaginás un país donde los recursos sean bien administrados?"
+      }
+      ,
+          {
+        "type": "matching",
+        "questionText": "Unir a cada funcionario y objeto de su administración con su función sana y con una consecuencia de su abuso de poder:",
+            "columns": [ "Funcionario", "Administración de","Función sana","Abuso"],
+        "correctAnswer": [
+          ["Legislador (leyes)","defendernos del mal(igno)","quitarnos libertad"],
+          ["Juez (justicia)", "educar al rebelde","vengar al rebelde"],
+          ["Presidente (recursos)","vivir en dignidad","despilfarrar en la abundancia"]
+          ],
+        "_comment": "progreso, seguridad y paz",
+        "tip":"",
+         "reflect":""
+      },
+      {
+        "type": "matching",
+        "questionText": "Unir cada adulto de una escuela primaria con su rol/responsabildad en relación al alumno/niño en la escuela:",
+            "columns": ["Adulto", "Función","Objetivo"],
+        "correctAnswer": [
+          ["(Di)Rector","Rectificar", "Marcar la Ley"],
+          ["Padre","Salvar","Abogar/Defender en el juicio"],
+          ["Maestro", "Conducir/Guiar","Progresar en el día a día"]        ]
       },
           {
         "type": "matching",
@@ -104,28 +105,10 @@
             "columns": ["Misa", "Ministerio","Función","Orden Sagrado"],
         "correctAnswer": [
           ["Palabra", "Profeta","Enseñar/Señalar", "Diacono 📚"],
-          ["Pan","Sacerdote","Orar/Sacrficar", "Presbítero 🥖 "],
+          ["Pan","Sacerdote","Orar/Sacrificar", "Presbítero 🥖 "],
           ["Envío","Pastor","Conducir/Guiar","Obispo 𓋾"]
         ]
-      },
-      {
-        "type": "matching",
-        "questionText": "Unir cada adulto de una escuela primaria con su rol/responsabildad en relación al alumno/niño en la escuela:",
-            "columns": ["Adulto", "Función","Objetivo Evangélico"],
-        "correctAnswer": [
-          ["Director","Rectificar", "Marcar la Ley"],
-          ["Padre","Salvar","Abogar/Defender en el juicio"],
-          ["Maestro", "Conducir/Guiar","Progresar en el día a día"]        ]
-      },
-          {
-        "type": "matching",
-        "questionText": "Unir cada nombre con su raiz etimológica (hebrea) y significado:",
-            "columns": ["Funcionario", "Función", "Poder","Objetivo Evangélico"],
-        "correctAnswer": [
-          ["Gobernante", "Conducir/Guiar","Ejecutivo","Progresar mediante la Paz"],
-          ["Legislador","Convertir/Rectificar","Legislativo", "Educar mediante la Palabra"],
-          ["Juez","Salvar/Condenar", "Judicial","Ajusticiar mediante la Misericordia"]
-        ]
-      } 
+      }
+
   ]
 }
