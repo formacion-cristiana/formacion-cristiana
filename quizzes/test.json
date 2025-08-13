@@ -18,17 +18,11 @@ A él se refería el profeta Isaías cuando dijo: "Una voz grita en el desierto:
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1:17):",
     "correctAnswer": ["Abraham-Isaac-Jacob", "Saúl-David-Salomón", "Destierro a Babilonia", "José (padre de Jesús)"]
     },
-          {
-        "type": "matching",
-        "image": "/images/dios-y-dinero.jpg", 
-        "questionText": "Mt 16:21 `Jesús comenzó a anunciar a sus discípulos que debía ir a Jerusalén, y sufrir mucho de parte de los ancianos, de los sumos sacerdotes y de los escribas; que debía ser condenado a muerte y resucitar al tercer día.`",
-            "columns": ["Ministerio","Funciones","","Judíos"],
-        "correctAnswer": [
-          ["Rey", "decidir el bien","Honores al entrar en Jerusalén", "Anciano"],
-          ["Sacerdote","recuperar el bien perdido","Recupera la Vida eterna al resucitar","Caifás"],
-          ["Profetas", "crear bienes con esfuerzo","Sufrimiento al ser condenado","Escriba"]
-        ]
-      },
+        {
+    "type": "ordering",
+    "questionText": "Ordenar temporalmente los temas presentados en Mt 1-4:",
+    "correctAnswer": ["Genealogía 🇮🇱🫅🕍", "Nacimiento ✨🐫🫏", "Bautismo ↪️👑💦", "Tentaciones en el desierto 🥖🌍🐍","Promulgación del Reino ❤️‍🩹📖🕊"]
+    },
 
 
      {

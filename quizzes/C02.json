@@ -14,7 +14,10 @@
       { "answerText": "David", "isCorrect": false },
       { "answerText": "Salomón", "isCorrect": false },
       { "answerText": "Jesús", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
           {
     "type": "multiple-choice",
@@ -26,13 +29,19 @@
       { "answerText": "David", "isCorrect": false },
       { "answerText": "Salomón", "isCorrect": false },
       { "answerText": "Jesús", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
     {
       "type": "true-false",
            "image": "/images/12tribus.png", 
       "questionText": "La Tierra Prometida por Dios al pueblo de Israel estaba deshabitada, por lo que les resulto sencillo instalarse.",
-      "correctAnswer": false
+      "correctAnswer": false,
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
         {
     "type": "multiple-choice",
@@ -44,7 +53,10 @@
       { "answerText": "David", "isCorrect": false },
       { "answerText": "Salomón", "isCorrect": false },
       { "answerText": "Jesús", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
           {
     "type": "multiple-choice",
@@ -56,7 +68,10 @@
       { "answerText": "Fortaleza", "isCorrect": false },
       { "answerText": "Temor", "isCorrect": true },
       { "answerText": "Consejo", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },          {
     "type": "multiple-choice",
     "image": "/images/jerusalem-moria-abram.png",
@@ -67,7 +82,10 @@
       { "answerText": "David", "isCorrect": true },
       { "answerText": "Salomón", "isCorrect": false },
       { "answerText": "Jesús", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
             {
     "type": "multiple-choice",
@@ -79,7 +97,10 @@
       { "answerText": "David", "isCorrect": false },
       { "answerText": "Salomón", "isCorrect": true },
       { "answerText": "Jesús", "isCorrect": false }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
               {
         "type": "matching",
@@ -92,7 +113,10 @@
           ["DaviD","DÔWD → amar", "amado/querido"],
           ["SALOMón","'SHALOM'→'paz'", "pacífico"],
           ["JeSHUA","'SHUA'→'salvación'", "Dios salva"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
               {
         "type": "matching",
@@ -104,7 +128,10 @@
           ["David", "Piedad"],
           ["Salomón", "Sabiduría"],
           ["Jesús", "Salvación"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
                     {
         "type": "matching",
@@ -116,7 +143,10 @@
           ["Piedad", "Devoción"],
           ["Sabiduría", "Sabor"],
           ["Salvación", "Sacrificio"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       }
   ]
 }

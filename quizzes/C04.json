@@ -8,12 +8,18 @@
     "type": "true-false",
     "image": "/images/dios-y-dinero.jpg", 
     "questionText": "Jesús dijo:\n\n`No se puede servir a Dios y al Dinero`",
-    "correctAnswer": true
+    "correctAnswer": true,
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },  {
     "type": "true-false",
         "image": "/images/dios-y-dinero.jpg", 
     "questionText": "Tanto Dios como el dinero pueden satisfacer las necesidades que el Hombre tiene de `PODER`, `PLACER`, y `POSEER`.",
-    "correctAnswer": true
+    "correctAnswer": true,
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
             {
     "type": "multiple-choice",
@@ -23,7 +29,10 @@
       { "answerText": "PODER", "isCorrect": false },
       { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
   {
     "type": "multiple-choice",          "image": "/images/bienaventuranzas.jpg", 
@@ -32,7 +41,10 @@
       { "answerText": "PODER", "isCorrect": false },
       { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "POSEER", "isCorrect": true }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
   },
   {
     "type": "multiple-choice",          "image": "/images/bienaventuranzas.jpg", 
@@ -41,7 +53,10 @@
       { "answerText": "PODER", "isCorrect": false },
       { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
         {
     "type": "multiple-choice",
@@ -51,7 +66,10 @@
       { "answerText": "Cuando te aflijas.", "isCorrect": false },
       { "answerText": "Cuando tengas hambre y sed de justicia.", "isCorrect": false },
       { "answerText": "Cuando tengas el corazón puro.", "isCorrect": true }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
          {
         "type": "matching",
@@ -62,7 +80,10 @@
           ["Poder","La Cruz ☦ que nos da Dios","Hijo","para salvarnos de la muerte"],
           ["Poseer", "La Vida 🎂 que nos da Dios","Padre","para adoptarnos como hijos"],
           ["Placer","La Paz 🕊 que nos da Dios","Espíritu","para esperar la parusía"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
     {
         "type": "matching",
@@ -73,7 +94,10 @@
           ["Poder","Autoridad","decidir el Bien"],
           ["Poseer","Herencia","ceder Bienes"],
           ["Placer","Felicidad","sentirse Bien"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
         {
         "type": "matching",
@@ -84,18 +108,24 @@
           ["Poder","Ministerios", "Rey-Profeta-Sacerdote"],
           ["Poseer","Dones", "Fortaleza-Sabiduria-Piedad"],
           ["Placer","Frutos", "Magnanimidad-Paz-Gozo"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
         {
         "type": "matching",
           "image": "/images/cuaresma.png", 
-        "questionText": "Asociar a cada necesidad del Hombre prácticas espirituales que la Iglesia Católica infunde para favorecer que las necesidades del Hombre sean satisfechas por Dios y no por el Mundo.\n\nLos `consejos evangélicos` suelen ser votos de quienes se consagran a una vida religiosa y los `consejos cuaresmales` son prácticas previas a la Pascua:",
+        "questionText": "Asociar a cada necesidad del Hombre prácticas espirituales que la Iglesia Católica infunde para favorecer que las necesidades del Hombre sean satisfechas por Dios y no por el Mundo:",
           "columns": ["Necesidades", "Consejos Evangélicos","Consejos Cuaresmales"],
         "correctAnswer": [
           ["Poder","Obediencia", "Oración"],
           ["Poseer","Pobreza", "Limosna"],
           ["Placer","Castidad", "Ayuno"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"Los `consejos evangélicos` -obediencia, pobreza y castidad- suelen ser votos de quienes se consagran a una vida religiosa\n\nLos `consejos cuaresmales` -oración, limosna y ayuno- son prácticas previas a la Pascua.",
+         "reflect":""
     }
   ]
 }

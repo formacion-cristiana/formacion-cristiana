@@ -7,25 +7,34 @@
               {
         "type": "matching",
           "image": "/images/tentaciones-de-jesus.jpg", 
-        "questionText": "Asociar a cada tentación una categoría y un pecado capital:\n\nMt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4:5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`",
+        "questionText": "Asociar a cada tentación que Jesús sufre en el desierto una categoría y un pecado capital:",
           "columns": ["Tentación de Jesús", "Categoría de la tentación", "Pecado Capital"],
         "correctAnswer": [
           ["👑 mandar a los ángeles", "PODER ", "SOBERBIA"],
           ["🥖 saciar el hambre", "PLACER","GULA"],
           ["🌎 recibir tierras", "POSEER","AVARICIA"]
-        ]
+        ],
+        "_comment": "",
+        "tip":"Mt 4:2-3 `Después de ayunar cuarenta días ... sintió hambre. Y el tentador... le dijo: «Si tú eres Hijo de Dios, manda que estas piedras se conviertan en panes».`\n\nMt 4:5-6 `Lo puso en la parte más alta del Templo, diciéndole: «Si tú eres Hijo de Dios, tírate abajo, porque está escrito: \"Dios dará órdenes a sus ángeles, y ellos te llevarán en sus manos para que tu pie no tropiece con ninguna piedra\"».`\n\nMt 4:8-9 `El demonio lo llevó luego a una montaña muy alta; desde allí le hizo ver todos los reinos del mundo con todo su esplendor, y le dijo: «Te daré todo esto, si te postras para adorarme».`",
+         "reflect":""
     },
         {
       "type": "true-false",
                    "image": "/images/tentaciones-de-jesus.jpg", 
       "questionText": "El tentador NO puede citar La Palabra de Dios para engañarnos/tentarnos",
-      "correctAnswer": false
+      "correctAnswer": false,
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
             {
       "type": "true-false",
                    "image": "/images/tentaciones-de-jesus.jpg", 
       "questionText": "Jesús resiste a las tentaciones rezando La Palabra de Dios.",
-      "correctAnswer": true
+      "correctAnswer": true,
+        "_comment": "",
+        "tip":"",
+         "reflect":""
     },
       {
     "type": "multiple-choice",
@@ -34,7 +43,10 @@
       { "answerText": "PODER", "isCorrect": false },
       { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": true }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
       {
     "type": "multiple-choice",
@@ -44,7 +56,10 @@
       { "answerText": "PODER", "isCorrect": false },
       { "answerText": "PLACER", "isCorrect": true },
       { "answerText": "POSEER", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
       {
     "type": "multiple-choice",
@@ -54,7 +69,10 @@
       { "answerText": "PODER", "isCorrect": true },
       { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "POSEER", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },    
 
         {
@@ -65,7 +83,11 @@
       { "answerText": "PODER", "isCorrect": true },
       { "answerText": "PLACER", "isCorrect": false },
       { "answerText": "POSEER", "isCorrect": false }
-      ]},
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
+      },
               {
     "type": "multiple-choice",
     "image": "/images/palestina-arabia-tiro.png", 
@@ -74,7 +96,10 @@
       { "answerText": "SOBERBIA", "isCorrect": true },
       { "answerText": "LUJURIA", "isCorrect": false },
       { "answerText": "AVARICIA", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
            {
     "type": "multiple-choice",
@@ -84,7 +109,10 @@
       { "answerText": "Un ángel", "isCorrect": true },
       { "answerText": "Una mujer", "isCorrect": false },
       { "answerText": "Un varón", "isCorrect": false }
-      ]
+      ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       },
             {
     "type": "multiple-choice",
@@ -98,7 +126,10 @@
       { "answerText": "El rey de Israel (2Sm 11:2)", "isCorrect": false },
       { "answerText": "El rey de Tiro (Ez 28:12)", "isCorrect": true },
       { "answerText": "La serpiente del Edén (Gn 3:1)", "isCorrect": true }
-    ]
+    ],
+        "_comment": "",
+        "tip":"",
+         "reflect":""
       }
   ]
 }

@@ -27,7 +27,7 @@
       { "answerText": "Sabiduría", "isCorrect": false },
       { "answerText": "Piedad", "isCorrect": false }
     ],
-    "tip":"Gn 22:1 `Dios puso a prueba a Abraham. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'.\n",
+    "tip":"Gn 22:1 `Dios puso a prueba a Abraham. Le dijo: Toma a tu hijo, a tu único, al que amas* ve a la región de Moria y ofrécelo allí en holocausto'.\n",
     "reflect":"Como prueba de su fe, Dios le pide a Abraham lo más dificil que alguién puede pensar. Este hecho nos predispone a profundizar en el misterio pascual, donde Dios sacrifica a su único hijo en pos de la humanidad.\n* ¿Quién te ha transmitido tu fé?\n* ¿Has tenido que probar tu fe?"
   },
   {
@@ -57,12 +57,7 @@
     ],
     "correctAnswer": "6"
   },
-  {
-    "type": "true-false",
-    "questionText": "El único profeta Judío que conoció personalmente a Jesús fue Juan Bautista",
-    "correctAnswer": true
-  },
-  {
+    {
     "type": "multiple-choice",
     "questionText": "En Mateo 3:2 Juan Bautista plocama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
     "answerOptions": [
@@ -70,9 +65,16 @@
       { "answerText": "Límpiense", "isCorrect": false },
       { "answerText": "Purifíquense", "isCorrect": false },
       { "answerText": "Santifíquense", "isCorrect": false }
-    ]
+    ],
+    "tip":"Después de 30 años del nacimiento de Jesús -en casi absoluto silencio- Juán comienza a anunciar su Reino.\n\nMt 3:1-2 `En aquel tiempo se presentó Juan el Bautista, proclamando en el desierto de Judea: «Conviértanse, porque el Reino de los Cielos está cerca».`"
   },
-    {
+  {
+    "type": "true-false",
+    "questionText": "El único profeta Judío que conoció personalmente a Jesús fue Juan Bautista",
+    "correctAnswer": true,
+    "tip":"Juan fue el último profeta Judío."
+  },
+  {
     "type": "multiple-choice",
     "questionText": "En Mateo 3:11 Juan Bautista le cuenta a los fariseos y saduceos que el que viene detrás de el los bautizará con:",
     "answerOptions": [
@@ -80,7 +82,8 @@
       { "answerText": "el Espíritu Santo", "isCorrect": true },
       { "answerText": "el fuego", "isCorrect": true },
       { "answerText": "el soplo", "isCorrect": false }
-    ]
+    ],
+    "tip":"Mt 3:10`Yo los bautizo con agua para que se conviertan; pero aquel que viene detrás de mí es más poderoso que yo, y yo ni siquiera soy digno de quitarle las sandalias. El los bautizará en el Espíritu Santo y en el fuego.`"
   }, 
    {
     "type": "multiple-choice",
