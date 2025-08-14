@@ -11,10 +11,10 @@
         "correctAnswer": [
           ["Adán","🥖","Pan"],
           ["Abel", "🐑","Animales"],
-          ["Caín","🍎","Cosecha"]
+          ["Caín","🍇","Cosecha"]
         ],
         "_comment": "",
-        "tip":"Cuando un trabajo/oficio se dedica a Dios, se hace sagrado y se convierte en sacrificio (sacro-oficio).",
+        "tip":"Cuando un trabajo/oficio se dedica a Dios, se hace sagrado y se convierte en sacrificio (sacro-oficio).\n\nEste es una de las actividades que realiza el ministerio sacerdotal i.e. sacralizar el trabajo ofreciéndoselo a Dios.\n\n'sacer' en latín significa `sagrado`. 'dote' podemos vincularlo con `don` o regalo ofrecido.",
         "reflect":"¿Le dedicás/ofrecés tu trabajo a Dios?"
       },
       {
@@ -27,8 +27,8 @@
           ["Abraham","Padre de multitudes","Inmolación de su hijo 🐑","Sacrificio Pascual (Viernes Santo)"]    
         ],
         "_comment": "",
-        "tip":"Gn 14:17-20 `Cuando Abram volvía de derrotar a Quedorlaomer y a los reyes que lo acompañaban, el rey de Sodoma salió a saludarlo en el valle de Savé, o sea el valle del Rey. Y Melquisedec, rey de Salem, que era sacerdote de Dios, el Altísimo, hizo traer pan y vino, y bendijo a Abram, diciendo: «¡Bendito sea Abram de parte de Dios, el Altísimo, creador del cielo y de la tierra! ¡Bendito sea Dios, el Altísimo, que entregó a tus enemigos en tus manos!». Y Abram le dio el diezmo de todo.`\n\nGn 18:10-14 ` «Volveré a verte sin falta en el año entrante, y para ese entonces Sara habrá tenido un hijo». Mientras tanto, Sara había estado escuchando a la entrada de la carpa, que estaba justo detrás de él. Abraham y Sara eran ancianos de edad avanzada, y los períodos de Sara ya habían cesado. Por eso, ella rió en su interior, pensando: «Con lo vieja que soy, ¿volveré a experimentar el placer? Además, ¡mi marido es tan viejo!». Pero el Señor dijo a Abraham: «¿Por qué se ha reído Sara, pensando que no podrá dar a luz, siendo tan vieja? ¿Acaso hay algo imposible para el Señor? Cuando yo vuelva a verte para esta época, en el año entrante, Sara habrá tenido un hijo»`\n\nGn 22:1-2 ` Después de estos acontecimientos, Dios puso a prueba a Abraham: «¡Abraham!», le dijo. El respondió: «Aquí estoy». Entonces Dios le siguió diciendo: «Toma a tu hijo único, el que tanto amas, a Isaac; ve a la región de Moria, y ofrécelo en holocausto sobrela montaña que yo te indicaré».`",
-         "reflect":""
+        "tip":"Gn 14:17-20 `Cuando Abram volvía de derrotar a Quedorlaomer y a los reyes que lo acompañaban, el rey de Sodoma salió a saludarlo en el valle de Savé, o sea el valle del Rey. Y Melquisedec, rey de Salem, que era sacerdote de Dios, el Altísimo, hizo traer pan y vino, y bendijo a Abram, diciendo: «¡Bendito sea Abram de parte de Dios, el Altísimo, creador del cielo y de la tierra! ¡Bendito sea Dios, el Altísimo, que entregó a tus enemigos en tus manos!». Y Abram le dio el diezmo de todo.`\n\nGn 18:10-14 ` «Volveré a verte sin falta en el año entrante, y para ese entonces Sara habrá tenido un hijo». Mientras tanto, Sara había estado escuchando a la entrada de la carpa, que estaba justo detrás de él. Abraham y Sara eran ancianos de edad avanzada, y los períodos de Sara ya habían cesado. Por eso, ella rió en su interior, pensando: «Con lo vieja que soy, ¿volveré a experimentar el placer? Además, ¡mi marido es tan viejo!». Pero el Señor dijo a Abraham: «¿Por qué se ha reído Sara, pensando que no podrá dar a luz, siendo tan vieja? ¿Acaso hay algo imposible para el Señor? Cuando yo vuelva a verte para esta época, en el año entrante, Sara habrá tenido un hijo»`\n\nGn 22:1-2 ` Después de estos acontecimientos, Dios puso a prueba a Abraham: «¡Abraham!», le dijo. El respondió: «Aquí estoy». Entonces Dios le siguió diciendo: «Toma a tu hijo único, el que tanto amas, a Isaac; ve a la región de Moria, y ofrécelo en holocausto sobre la montaña que yo te indicaré».`",
+         "reflect":"¿Le ofreces tus alimentos a Dios? Cada vez que ofreces los alimentos a Dios en acción de gracias y bendecís a los comensales ejercés tu ministerio sacerdotal."
       },
                 {
         "type": "matching",
@@ -77,73 +77,8 @@
       { "answerText": "Jesús", "isCorrect": true }
     ],
         "_comment": "",
-        "tip":"Los reyes eran ungidos por sacerdotes o profetas. La unción era un rito que marca la consagración y la investidura del rey, indicando que ha recibido el favor y el poder de Dios para gobernar.",
+        "tip":"Los reyes eran ungidos por sacerdotes o profetas. La unción era un rito que marca la consagración y la investidura del rey, indicando que ha recibido el favor y el poder de Dios para gobernar.\n\n2Sm 5:3 `Todos los ancianos de Israel *ungieron a David como rey de Israel.`",
          "reflect":"¿Te considerás úngido de Dios?"
-  },             
-       {
-    "type": "multiple-choice",
-    "questionText": "¿Quién estableció a Jerusalém (ciudad de la paz) como capital del Israel?",
-      "image": "/images/primeros-reinos.png",
-      "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": false }
-    ],
-        "_comment": "",
-        "tip":"",
-         "reflect":""
-  },           {
-    "type": "multiple-choice",
-    "image": "/images/jerusalem-moria-abram.png",
-    "questionText": "Por su gran devoción a Dios, ¿Quién comienza con los preparativos para construir el primer Templo de Jerusalén?",
-    "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": false },
-      { "answerText": "David", "isCorrect": true },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": false }
-    ],
-        "_comment": "",
-        "tip":"En el templo se realizaban sacrificios, ceremonias religiosas y se guardaban los objetos sagrados Este templo será destruido en el destierro a Babilonia, prefigura de la pascua de Jesús.",
-         "reflect":""
-  },       {
-    "type": "multiple-choice",
-    "questionText": "Al volver de Babilonia, Israel se convirtió en un pueblo liderado por ...",
-    "answerOptions": [
-      { "answerText": "Reyes", "isCorrect": false },
-      { "answerText": "Profetas", "isCorrect": false },
-      { "answerText": "Sacerdotes", "isCorrect": true},
-      { "answerText": "Romanos", "isCorrect": false }
-    ],
-        "_comment": "",
-        "tip":"El rey Persa (Ciro) les permite reconstruir el templo. ",
-         "reflect":""
-  }, 
-          {
-        "type": "matching",
-        "image": "/images/timeline-historia-de-la-salvacion.jpeg", 
-        "questionText": "Caracterizar la historia del pueblo judio separada cada 14 generaciones:",
-            "columns": ["Época", "Ministerio","Nota","Emoji"],
-        "correctAnswer": [
-          ["Abraham-David","Patriarcas", "Formación de Israel ","⛓️‍💥🇮🇱⚔️"],
-          ["David-Babel","Profetas","Dioses falsos ","🫅🐂🔥"],
-          ["Babel-Jesús", "Sacerdotes ","Pueblo religioso ","📖👨‍⚖️📚"]
-        ]
-      },
-          {
-        "type": "matching",
-        "image": "/images/timeline-historia-de-la-salvacion.jpeg", 
-        "questionText": "Caracterizar a los profetas de Israel en cuanto a su época, función profética y un punto importante de sus mensajes (Ex 34:27-32; 1Re 18:21-24;Mt 3:7-10)",
-        "columns": ["Profeta","Época", "Función ","Señalaban"],
-        "correctAnswer": [
-          ["Moisés","Abraham-David", "educar al pueblo","La Ley de Dios"],
-          ["Elías","David-Babel","corregir a los Reyes","El Dios Verdadero"],
-          ["Juan Bautista","Babel-Jesús","corregir a los religiosos","El Juicio de Dios"]
-        ],
-        "tip": "Ex 34:27-32 `el Señor dijo a Moisés: consigna por escrito estas palabras, porque ellas son las cláusulas de la alianza que yo hago contigo y con Israel». Moisés estuvo allí con el Señor cuarenta días y cuarenta noches, sin comer ni beber. Y escribió sobre las tablas las palabras de la alianza, es decir, los diez Mandamientos. Cuando Moisés bajó de la montaña del Sinaí, * se acercaron Aarón y todos los jefes de la comunidad, y él les habló. Después se acercaron también todos los israelitas, y él les transmitió las órdenes que el Señor le había dado.`\n\n1Re 18:21-24 `Elías se acercó a todo el pueblo y dijo: «¿Hasta cuándo van a andar rengueando de las dos piernas? Si el Señor es Dios, síganlo; si es Baal, síganlo a él. Pero el pueblo no le respondió ni una palabra. Luego Elías dijo al pueblo: «Como profeta del Señor, he quedado yo solo, mientras que los profetas de Baal son cuatrocientos cincuenta. Traigamos dos novillos. *Ustedes invocarán el nombre de su dios y yo invocaré el nombre del Señor: el dios que responda enviándome fuego, ese es Dios». Todo el pueblo respondió diciendo: «¡Está bien!»`\n\nMt 3:7-10 `Al ver que muchos fariseos y saduceos se acercaban a recibir su bautismo, Juan les dijo: «Raza de víboras, ¿quién les enseñó a escapar de la ira de Dios que se acerca? Produzcan el fruto de una sincera conversión, y no se contenten con decir: «Tenemos por padre a Abraham». Porque yo les digo que de estas piedras Dios puede hacer surgir hijos de Abraham. El hacha ya está puesta a la raíz de los árboles: el árbol que no produce buen fruto será cortado y arrojado al fuego.`",
-        "reflect":""
-      }
+  }
   ]
 }

@@ -87,8 +87,8 @@
           ["Presidente (recursos)","vivir en dignidad","despilfarrar en la abundancia"]
           ],
         "_comment": "",
-        "tip":"",
-         "reflect":""
+        "tip":"Si bien la ley nos instruye, no suele ser pedagógica. Aquí el énfasis educativo esta puesto en quien con en un proceso de castigo y misericordia va convirtiendo al rebelde en una persona justa.",
+         "reflect":"* ¿Te has sentido protegido por alguna ley?\n\n* ¿Has sido limitado en tu accionar por alguna ley?\n\n* ¿Has tenido que castigar a alguien?\n\n* ¿Has perdonado un castigo?\n\n* ¿Has sido responsable de administrar bienes comunes?\n\n* ¿Has despilfarrado bienes comunes?"
       },
       {
         "type": "matching",
@@ -100,7 +100,7 @@
           ["Maestro", "Conducir/Guiar","Progresar en el día a día"]        
         ],
         "tip":"",
-         "reflect":""
+         "reflect":"Cuando ibas a la escuela,\n\n* ¿te han llevado a la dirección?\n\n* ¿ha ido alguno de tus padres a abogar por vos ante el maestro?\n\nSiendo adulto,\n\n* ¿Has tenido que caminar durante un tiempo (al menos un año) como guía de alguien, buscando que progrese en algún tema?"
       },
           {
         "type": "matching",
